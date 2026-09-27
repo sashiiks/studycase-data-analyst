@@ -1,0 +1,1135 @@
+Month,Shift,Date,Division,Group,Agent,Response Time,Status,Role,Date_DT,Tanggal_Date,Agent_Clean
+i. September,S1,1-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:20:48,Online,ACQUI,2026-09-01,2026-09-01,Bella Deviana Dwi Prastiwi
+i. September,S1,1-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,0:13:07,Online,ACQUI,2026-09-01,2026-09-01,Dian Putri Saraswati
+i. September,S1,1-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,0:15:32,Online,ACQUI,2026-09-01,2026-09-01,Diaz Ahmad Fahrizal
+i. September,S1,1-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:17:17,Online,ACQUI,2026-09-01,2026-09-01,Fany Achmad Raihan
+i. September,S1,1-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:12:05,Online,ACQUI,2026-09-01,2026-09-01,Jacinta Aura Ramadhani
+i. September,S1,1-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:17:30,Online,ACQUI,2026-09-01,2026-09-01,Muhamad Zidan Adha
+i. September,S3,1-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:09:05,Online,ACQUI,2026-09-01,2026-09-01,Nidaan Khafiyya Yusbar
+i. September,S1,1-Sep-2026,Acqui,Grup A,Nisrina Nur,0:13:23,Online,ACQUI,2026-09-01,2026-09-01,Nisrina Nur
+i. September,S2,1-Sep-2026,Acqui,Grup A,Tari Devianti,0:14:21,Online,ACQUI,2026-09-01,2026-09-01,Tari Devianti
+i. September,S2,1-Sep-2026,Acqui,Grup A,Alfattiya Putri Bennika,0:13:36,Online,ACQUI,2026-09-01,2026-09-01,Alfattiya Putri Bennika
+i. September,S1,1-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:18:47,Online,ACQUI,2026-09-01,2026-09-01,Amaliah Bakti
+i. September,S2,1-Sep-2026,Acqui,Grup B,Ana Fitriani,0:23:04,Online,ACQUI,2026-09-01,2026-09-01,Ana Fitriani
+i. September,S3,1-Sep-2026,Acqui,Grup A,Bagas Adjie Dewanto,0:30:01,Online,ACQUI,2026-09-01,2026-09-01,Bagas Adjie Dewanto
+i. September,S2,1-Sep-2026,Acqui,Grup A,Fathya Aufa Lidinillah,0:11:11,Online,ACQUI,2026-09-01,2026-09-01,Fathya Aufa Lidinillah
+i. September,S1,1-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:20:09,Online,ACQUI,2026-09-01,2026-09-01,Hanifah Iftinan Saputri
+i. September,S3,1-Sep-2026,Acqui,Grup B,Kamila Faradila,0:15:09,Online,ACQUI,2026-09-01,2026-09-01,Kamila Faradila
+i. September,OFF,1-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,0:18:20,Offline,ACQUI,2026-09-01,2026-09-01,Salwa Rahmadiyanti
+i. September,S1,1-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:20:25,Online,ACQUI,2026-09-01,2026-09-01,Achmad Fara Gautama
+i. September,S2,1-Sep-2026,Acqui,Grup C,Ananda Syafira,0:13:02,Online,ACQUI,2026-09-01,2026-09-01,Ananda Syafira
+i. September,S3,1-Sep-2026,Acqui,Grup B,Annya Anugrahaning,0:16:47,Online,ACQUI,2026-09-01,2026-09-01,Annya Anugrahaning
+i. September,S2,1-Sep-2026,Acqui,Grup B,Feliksia Astridaphira Tramaharani,0:11:33,Online,ACQUI,2026-09-01,2026-09-01,Feliksia Astridaphira Tramaharani
+i. September,S3,1-Sep-2026,Acqui,Grup B,Muhammad Urwah,0:07:38,Online,ACQUI,2026-09-01,2026-09-01,Muhammad Urwah
+i. September,S1,1-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:19:41,Online,ACQUI,2026-09-01,2026-09-01,Shavira Devi Shaliha
+i. September,S1,1-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:19:04,Online,ACQUI,2026-09-01,2026-09-01,Thia Amelia Butar Butar
+i. September,S1,1-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,0:12:01,Online,CS,2026-09-01,2026-09-01,Dewi Lailatul Badriyah
+i. September,S2,1-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:12:21,Online,CS,2026-09-01,2026-09-01,Inayah Rohmaniyah
+i. September,S3,1-Sep-2026,CX,Grup B,Meiza Muhammad Rizqi,0:12:08,Online,CS,2026-09-01,2026-09-01,Meiza Muhammad Rizqi
+i. September,OFF,1-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:21:35,Offline,CS,2026-09-01,2026-09-01,Nadzira Inayah Muthmainah
+i. September,S1,1-Sep-2026,CX,Grup A,Novena Graciana M Thasya K,0:12:39,Online,CS,2026-09-01,2026-09-01,Novena Graciana M Thasya K
+i. September,S1,1-Sep-2026,CX,Grup A,Pretty Kurnia Yuldiastuti,0:11:32,Online,CS,2026-09-01,2026-09-01,Pretty Kurnia Yuldiastuti
+i. September,S2,1-Sep-2026,CX,Grup A,Seno Ajianto,0:16:12,Online,CS,2026-09-01,2026-09-01,Seno Ajianto
+i. September,S3,1-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:10:28,Online,CS,2026-09-01,2026-09-01,Verrina Amira Harjo
+i. September,OFF,1-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:10:05,Offline,CS,2026-09-01,2026-09-01,Afifah Nur khasanah
+i. September,S3,1-Sep-2026,CX,Grup C,Anisya Ananda Putri,0:12:35,Online,CS,2026-09-01,2026-09-01,Anisya Ananda Putri
+i. September,S2,1-Sep-2026,CX,Grup B,Caroline Elsa Manuhua,0:09:25,Online,CS,2026-09-01,2026-09-01,Caroline Elsa Manuhua
+i. September,S1,1-Sep-2026,CX,Grup A,Citra Risi Khaironissa,0:12:20,Online,CS,2026-09-01,2026-09-01,Citra Risi Khaironissa
+i. September,S1,1-Sep-2026,CX,Grup C,Muhammad Hairul Nizam,0:15:10,Online,CS,2026-09-01,2026-09-01,Muhammad Hairul Nizam
+i. September,S3,1-Sep-2026,CX,Grup A,Muthiah Hanif Salsabilla,0:09:33,Online,CS,2026-09-01,2026-09-01,Muthiah Hanif Salsabilla
+i. September,S2,1-Sep-2026,CX,Grup A,Nurul Nisa,0:08:38,Online,CS,2026-09-01,2026-09-01,Nurul Nisa
+i. September,S1,1-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:08:38,Online,CS,2026-09-01,2026-09-01,Rahma Choirul Jannah Rahayu
+i. September,S3,1-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:11:17,Online,CS,2026-09-01,2026-09-01,Anisa Diah Roselawati
+i. September,S1,1-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:10:33,Online,CS,2026-09-01,2026-09-01,Arum Savitri Chairunisa
+i. September,S1,1-Sep-2026,CX,Grup B,Hanifah Rahmifisina Nirmalasari,0:07:55,Online,CS,2026-09-01,2026-09-01,Hanifah Rahmifisina Nirmalasari
+i. September,S1,1-Sep-2026,CX,Grup C,Karmilla Susilawati,0:10:40,Online,CS,2026-09-01,2026-09-01,Karmilla Susilawati
+i. September,S1,1-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:09:19,Online,CS,2026-09-01,2026-09-01,Nandita Khairunnisa
+i. September,S1,1-Sep-2026,CX,Grup C,Panca Rani Sakti,0:10:22,Online,CS,2026-09-01,2026-09-01,Panca Rani Sakti
+i. September,S1,1-Sep-2026,CX,Grup C,Puspita Wulandari,0:14:33,Online,CS,2026-09-01,2026-09-01,Puspita Wulandari
+i. September,OFF,1-Sep-2026,CX,Grup A,Reniana Elya Azizatur Rojiyah,0:07:23,Offline,CS,2026-09-01,2026-09-01,Reniana Elya Azizatur Rojiyah
+i. September,OFF,1-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:09:41,Offline,CS,2026-09-01,2026-09-01,Rihana Aulia Nafita
+i. September,OFF,2-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:00:00,Offline,ACQUI,2026-09-02,2026-09-02,Bella Deviana Dwi Prastiwi
+i. September,S1,2-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,0:25:24,Online,ACQUI,2026-09-02,2026-09-02,Dian Putri Saraswati
+i. September,S1,2-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,0:29:57,Online,ACQUI,2026-09-02,2026-09-02,Diaz Ahmad Fahrizal
+i. September,S1,2-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:18:36,Online,ACQUI,2026-09-02,2026-09-02,Fany Achmad Raihan
+i. September,S3,2-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:02:55,Online,ACQUI,2026-09-02,2026-09-02,Jacinta Aura Ramadhani
+i. September,S1,2-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:26:16,Online,ACQUI,2026-09-02,2026-09-02,Muhamad Zidan Adha
+i. September,S2,2-Sep-2026,Acqui,Grup A,Muhamad Dzikri Ahsani Hermawan,0:02:48,Online,ACQUI,2026-09-02,2026-09-02,Muhamad Dzikri Ahsani Hermawan
+i. September,S2,2-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:03:34,Online,ACQUI,2026-09-02,2026-09-02,Nidaan Khafiyya Yusbar
+i. September,S1,2-Sep-2026,Acqui,Grup A,Nisrina Nur,0:19:19,Online,ACQUI,2026-09-02,2026-09-02,Nisrina Nur
+i. September,S3,2-Sep-2026,Acqui,Grup A,Tari Devianti,0:04:34,Online,ACQUI,2026-09-02,2026-09-02,Tari Devianti
+i. September,S1,2-Sep-2026,Acqui,Grup A,Alfattiya Putri Bennika,0:20:36,Online,ACQUI,2026-09-02,2026-09-02,Alfattiya Putri Bennika
+i. September,S1,2-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:31:37,Online,ACQUI,2026-09-02,2026-09-02,Amaliah Bakti
+i. September,S1,2-Sep-2026,Acqui,Grup B,Ana Fitriani,0:37:05,Online,ACQUI,2026-09-02,2026-09-02,Ana Fitriani
+i. September,S2,2-Sep-2026,Acqui,Grup A,Bagas Adjie Dewanto,0:17:07,Online,ACQUI,2026-09-02,2026-09-02,Bagas Adjie Dewanto
+i. September,S3,2-Sep-2026,Acqui,Grup A,Fathya Aufa Lidinillah,0:07:49,Online,ACQUI,2026-09-02,2026-09-02,Fathya Aufa Lidinillah
+i. September,OFF,2-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:00:00,Offline,ACQUI,2026-09-02,2026-09-02,Hanifah Iftinan Saputri
+i. September,S2,2-Sep-2026,Acqui,Grup B,Kamila Faradila,0:07:00,Online,ACQUI,2026-09-02,2026-09-02,Kamila Faradila
+i. September,S1,2-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,0:28:28,Online,ACQUI,2026-09-02,2026-09-02,Salwa Rahmadiyanti
+i. September,S1,2-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:22:02,Online,ACQUI,2026-09-02,2026-09-02,Achmad Fara Gautama
+i. September,S1,2-Sep-2026,Acqui,Grup C,Ananda Syafira,0:21:29,Online,ACQUI,2026-09-02,2026-09-02,Ananda Syafira
+i. September,S2,2-Sep-2026,Acqui,Grup B,Annya Anugrahaning,0:12:37,Online,ACQUI,2026-09-02,2026-09-02,Annya Anugrahaning
+i. September,S1,2-Sep-2026,Acqui,Grup B,Feliksia Astridaphira Tramaharani,0:21:02,Online,ACQUI,2026-09-02,2026-09-02,Feliksia Astridaphira Tramaharani
+i. September,S2,2-Sep-2026,Acqui,Grup B,Muhammad Urwah,0:02:27,Online,ACQUI,2026-09-02,2026-09-02,Muhammad Urwah
+i. September,S3,2-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:10:33,Online,ACQUI,2026-09-02,2026-09-02,Shavira Devi Shaliha
+i. September,S3,2-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:09:20,Online,ACQUI,2026-09-02,2026-09-02,Thia Amelia Butar Butar
+i. September,S3,2-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,0:04:57,Online,CS,2026-09-02,2026-09-02,Dewi Lailatul Badriyah
+i. September,S1,2-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:10:36,Online,CS,2026-09-02,2026-09-02,Inayah Rohmaniyah
+i. September,S2,2-Sep-2026,CX,Grup B,Meiza Muhammad Rizqi,0:12:55,Online,CS,2026-09-02,2026-09-02,Meiza Muhammad Rizqi
+i. September,OFF,2-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:00:00,Offline,CS,2026-09-02,2026-09-02,Nadzira Inayah Muthmainah
+i. September,S1,2-Sep-2026,CX,Grup A,Novena Graciana M Thasya K,0:13:26,Online,CS,2026-09-02,2026-09-02,Novena Graciana M Thasya K
+i. September,OFF,2-Sep-2026,CX,Grup A,Pretty Kurnia Yuldiastuti,0:00:00,Offline,CS,2026-09-02,2026-09-02,Pretty Kurnia Yuldiastuti
+i. September,S1,2-Sep-2026,CX,Grup A,Seno Ajianto,0:37:27,Online,CS,2026-09-02,2026-09-02,Seno Ajianto
+i. September,OFF,2-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:05:26,Offline,CS,2026-09-02,2026-09-02,Verrina Amira Harjo
+i. September,S3,2-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:08:20,Online,CS,2026-09-02,2026-09-02,Afifah Nur khasanah
+i. September,OFF,2-Sep-2026,CX,Grup C,Anisya Ananda Putri,0:03:20,Offline,CS,2026-09-02,2026-09-02,Anisya Ananda Putri
+i. September,S1,2-Sep-2026,CX,Grup B,Caroline Elsa Manuhua,0:09:38,Online,CS,2026-09-02,2026-09-02,Caroline Elsa Manuhua
+i. September,S2,2-Sep-2026,CX,Grup A,Citra Risi Khaironissa,0:07:02,Online,CS,2026-09-02,2026-09-02,Citra Risi Khaironissa
+i. September,S3,2-Sep-2026,CX,Grup C,Muhammad Hairul Nizam,0:19:42,Online,CS,2026-09-02,2026-09-02,Muhammad Hairul Nizam
+i. September,S2,2-Sep-2026,CX,Grup A,Muthiah Hanif Salsabilla,0:03:50,Online,CS,2026-09-02,2026-09-02,Muthiah Hanif Salsabilla
+i. September,S3,2-Sep-2026,CX,Grup A,Nurul Nisa,0:06:52,Online,CS,2026-09-02,2026-09-02,Nurul Nisa
+i. September,OFF,2-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:05:13,Offline,CS,2026-09-02,2026-09-02,Rahma Choirul Jannah Rahayu
+i. September,OFF,2-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:02:22,Offline,CS,2026-09-02,2026-09-02,Anisa Diah Roselawati
+i. September,S2,2-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:13:47,Online,CS,2026-09-02,2026-09-02,Arum Savitri Chairunisa
+i. September,S1,2-Sep-2026,CX,Grup B,Hanifah Rahmifisina Nirmalasari,0:05:48,Online,CS,2026-09-02,2026-09-02,Hanifah Rahmifisina Nirmalasari
+i. September,S1,2-Sep-2026,CX,Grup C,Karmilla Susilawati,0:14:32,Online,CS,2026-09-02,2026-09-02,Karmilla Susilawati
+i. September,S1,2-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:10:54,Online,CS,2026-09-02,2026-09-02,Nandita Khairunnisa
+i. September,S1,2-Sep-2026,CX,Grup C,Panca Rani Sakti,0:14:25,Online,CS,2026-09-02,2026-09-02,Panca Rani Sakti
+i. September,S1,2-Sep-2026,CX,Grup C,Puspita Wulandari,0:16:37,Online,CS,2026-09-02,2026-09-02,Puspita Wulandari
+i. September,S3,2-Sep-2026,CX,Grup A,Reniana Elya Azizatur Rojiyah,0:07:59,Online,CS,2026-09-02,2026-09-02,Reniana Elya Azizatur Rojiyah
+i. September,S1,2-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:13:15,Online,CS,2026-09-02,2026-09-02,Rihana Aulia Nafita
+i. September,S1,3-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:26:34,Online,ACQUI,2026-09-03,2026-09-03,Bella Deviana Dwi Prastiwi
+i. September,S1,3-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,0:28:34,Online,ACQUI,2026-09-03,2026-09-03,Dian Putri Saraswati
+i. September,S2,3-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,0:07:20,Online,ACQUI,2026-09-03,2026-09-03,Diaz Ahmad Fahrizal
+i. September,S3,3-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:00:57,Online,ACQUI,2026-09-03,2026-09-03,Fany Achmad Raihan
+i. September,OFF,3-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:14:21,Offline,ACQUI,2026-09-03,2026-09-03,Jacinta Aura Ramadhani
+i. September,S3,3-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:02:24,Online,ACQUI,2026-09-03,2026-09-03,Muhamad Zidan Adha
+i. September,S1,3-Sep-2026,Acqui,Grup A,Muhamad Dzikri Ahsani Hermawan,0:17:56,Online,ACQUI,2026-09-03,2026-09-03,Muhamad Dzikri Ahsani Hermawan
+i. September,S1,3-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:15:25,Online,ACQUI,2026-09-03,2026-09-03,Nidaan Khafiyya Yusbar
+i. September,S1,3-Sep-2026,Acqui,Grup A,Nisrina Nur,0:15:31,Online,ACQUI,2026-09-03,2026-09-03,Nisrina Nur
+i. September,S2,3-Sep-2026,Acqui,Grup A,Tari Devianti,0:04:11,Online,ACQUI,2026-09-03,2026-09-03,Tari Devianti
+i. September,S1,3-Sep-2026,Acqui,Grup A,Alfattiya Putri Bennika,0:26:00,Online,ACQUI,2026-09-03,2026-09-03,Alfattiya Putri Bennika
+i. September,S1,3-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:31:01,Online,ACQUI,2026-09-03,2026-09-03,Amaliah Bakti
+i. September,S3,3-Sep-2026,Acqui,Grup B,Ana Fitriani,0:07:23,Online,ACQUI,2026-09-03,2026-09-03,Ana Fitriani
+i. September,S1,3-Sep-2026,Acqui,Grup A,Bagas Adjie Dewanto,0:29:11,Online,ACQUI,2026-09-03,2026-09-03,Bagas Adjie Dewanto
+i. September,S2,3-Sep-2026,Acqui,Grup A,Fathya Aufa Lidinillah,0:06:13,Online,ACQUI,2026-09-03,2026-09-03,Fathya Aufa Lidinillah
+i. September,OFF,3-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:00:00,Offline,ACQUI,2026-09-03,2026-09-03,Hanifah Iftinan Saputri
+i. September,S1,3-Sep-2026,Acqui,Grup B,Kamila Faradila,0:30:13,Online,ACQUI,2026-09-03,2026-09-03,Kamila Faradila
+i. September,S3,3-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,0:05:04,Online,ACQUI,2026-09-03,2026-09-03,Salwa Rahmadiyanti
+i. September,OFF,3-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:15:28,Offline,ACQUI,2026-09-03,2026-09-03,Achmad Fara Gautama
+i. September,S3,3-Sep-2026,Acqui,Grup C,Ananda Syafira,0:05:34,Online,ACQUI,2026-09-03,2026-09-03,Ananda Syafira
+i. September,S1,3-Sep-2026,Acqui,Grup B,Annya Anugrahaning,0:20:40,Online,ACQUI,2026-09-03,2026-09-03,Annya Anugrahaning
+i. September,S1,3-Sep-2026,Acqui,Grup B,Feliksia Astridaphira Tramaharani,0:35:02,Online,ACQUI,2026-09-03,2026-09-03,Feliksia Astridaphira Tramaharani
+i. September,S1,3-Sep-2026,Acqui,Grup B,Muhammad Urwah,0:17:56,Online,ACQUI,2026-09-03,2026-09-03,Muhammad Urwah
+i. September,S2,3-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:10:42,Online,ACQUI,2026-09-03,2026-09-03,Shavira Devi Shaliha
+i. September,S2,3-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:18:07,Online,ACQUI,2026-09-03,2026-09-03,Thia Amelia Butar Butar
+i. September,OFF,3-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,0:00:00,Offline,CS,2026-09-03,2026-09-03,Dewi Lailatul Badriyah
+i. September,S3,3-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:12:33,Online,CS,2026-09-03,2026-09-03,Inayah Rohmaniyah
+i. September,S1,3-Sep-2026,CX,Grup B,Meiza Muhammad Rizqi,0:16:17,Online,CS,2026-09-03,2026-09-03,Meiza Muhammad Rizqi
+i. September,OFF,3-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:00:00,Offline,CS,2026-09-03,2026-09-03,Nadzira Inayah Muthmainah
+i. September,S3,3-Sep-2026,CX,Grup A,Novena Graciana M Thasya K,0:21:59,Online,CS,2026-09-03,2026-09-03,Novena Graciana M Thasya K
+i. September,OFF,3-Sep-2026,CX,Grup A,Pretty Kurnia Yuldiastuti,0:00:00,Offline,CS,2026-09-03,2026-09-03,Pretty Kurnia Yuldiastuti
+i. September,S1,3-Sep-2026,CX,Grup A,Seno Ajianto,0:17:12,Online,CS,2026-09-03,2026-09-03,Seno Ajianto
+i. September,S1,3-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:15:58,Online,CS,2026-09-03,2026-09-03,Verrina Amira Harjo
+i. September,S2,3-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:06:44,Online,CS,2026-09-03,2026-09-03,Afifah Nur khasanah
+i. September,S1,3-Sep-2026,CX,Grup C,Anisya Ananda Putri,0:08:37,Online,CS,2026-09-03,2026-09-03,Anisya Ananda Putri
+i. September,S3,3-Sep-2026,CX,Grup B,Caroline Elsa Manuhua,0:07:38,Online,CS,2026-09-03,2026-09-03,Caroline Elsa Manuhua
+i. September,S3,3-Sep-2026,CX,Grup A,Citra Risi Khaironissa,0:05:40,Online,CS,2026-09-03,2026-09-03,Citra Risi Khaironissa
+i. September,OFF,3-Sep-2026,CX,Grup C,Muhammad Hairul Nizam,0:05:46,Offline,CS,2026-09-03,2026-09-03,Muhammad Hairul Nizam
+i. September,S1,3-Sep-2026,CX,Grup A,Muthiah Hanif Salsabilla,0:08:58,Online,CS,2026-09-03,2026-09-03,Muthiah Hanif Salsabilla
+i. September,S2,3-Sep-2026,CX,Grup A,Nurul Nisa,0:06:53,Online,CS,2026-09-03,2026-09-03,Nurul Nisa
+i. September,S1,3-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:10:02,Online,CS,2026-09-03,2026-09-03,Rahma Choirul Jannah Rahayu
+i. September,S1,3-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:15:37,Online,CS,2026-09-03,2026-09-03,Anisa Diah Roselawati
+i. September,S1,3-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:11:24,Online,CS,2026-09-03,2026-09-03,Arum Savitri Chairunisa
+i. September,S2,3-Sep-2026,CX,Grup B,Hanifah Rahmifisina Nirmalasari,0:07:02,Online,CS,2026-09-03,2026-09-03,Hanifah Rahmifisina Nirmalasari
+i. September,S1,3-Sep-2026,CX,Grup C,Karmilla Susilawati,0:16:10,Online,CS,2026-09-03,2026-09-03,Karmilla Susilawati
+i. September,S3,3-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:05:08,Online,CS,2026-09-03,2026-09-03,Nandita Khairunnisa
+i. September,OFF,3-Sep-2026,CX,Grup C,Panca Rani Sakti,0:00:00,Offline,CS,2026-09-03,2026-09-03,Panca Rani Sakti
+i. September,S1,3-Sep-2026,CX,Grup C,Puspita Wulandari,0:16:40,Online,CS,2026-09-03,2026-09-03,Puspita Wulandari
+i. September,S2,3-Sep-2026,CX,Grup A,Reniana Elya Azizatur Rojiyah,0:04:06,Online,CS,2026-09-03,2026-09-03,Reniana Elya Azizatur Rojiyah
+i. September,S1,3-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:10:39,Online,CS,2026-09-03,2026-09-03,Rihana Aulia Nafita
+i. September,S1,4-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:23:00,Online,ACQUI,2026-09-04,2026-09-04,Bella Deviana Dwi Prastiwi
+i. September,S3,4-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,0:15:41,Online,ACQUI,2026-09-04,2026-09-04,Dian Putri Saraswati
+i. September,S1,4-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,0:17:04,Online,ACQUI,2026-09-04,2026-09-04,Diaz Ahmad Fahrizal
+i. September,S2,4-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:17:05,Online,ACQUI,2026-09-04,2026-09-04,Fany Achmad Raihan
+i. September,S1,4-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:12:25,Online,ACQUI,2026-09-04,2026-09-04,Jacinta Aura Ramadhani
+i. September,S2,4-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:17:45,Online,ACQUI,2026-09-04,2026-09-04,Muhamad Zidan Adha
+i. September,OFF,4-Sep-2026,Acqui,Grup A,Muhamad Dzikri Ahsani Hermawan,0:13:10,Offline,ACQUI,2026-09-04,2026-09-04,Muhamad Dzikri Ahsani Hermawan
+i. September,S3,4-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:08:22,Online,ACQUI,2026-09-04,2026-09-04,Nidaan Khafiyya Yusbar
+i. September,OFF,4-Sep-2026,Acqui,Grup A,Nisrina Nur,0:13:53,Offline,ACQUI,2026-09-04,2026-09-04,Nisrina Nur
+i. September,S1,4-Sep-2026,Acqui,Grup A,Tari Devianti,0:13:11,Online,ACQUI,2026-09-04,2026-09-04,Tari Devianti
+i. September,S3,4-Sep-2026,Acqui,Grup A,Alfattiya Putri Bennika,0:14:32,Online,ACQUI,2026-09-04,2026-09-04,Alfattiya Putri Bennika
+i. September,S3,4-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:19:41,Online,ACQUI,2026-09-04,2026-09-04,Amaliah Bakti
+i. September,OFF,4-Sep-2026,Acqui,Grup B,Ana Fitriani,0:25:41,Offline,ACQUI,2026-09-04,2026-09-04,Ana Fitriani
+i. September,S1,4-Sep-2026,Acqui,Grup A,Bagas Adjie Dewanto,0:27:05,Online,ACQUI,2026-09-04,2026-09-04,Bagas Adjie Dewanto
+i. September,S2,4-Sep-2026,Acqui,Grup A,Fathya Aufa Lidinillah,0:11:03,Online,ACQUI,2026-09-04,2026-09-04,Fathya Aufa Lidinillah
+i. September,S1,4-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:22:40,Online,ACQUI,2026-09-04,2026-09-04,Hanifah Iftinan Saputri
+i. September,S1,4-Sep-2026,Acqui,Grup B,Kamila Faradila,0:15:58,Online,ACQUI,2026-09-04,2026-09-04,Kamila Faradila
+i. September,S1,4-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,0:14:55,Online,ACQUI,2026-09-04,2026-09-04,Salwa Rahmadiyanti
+i. September,S1,4-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:21:43,Online,ACQUI,2026-09-04,2026-09-04,Achmad Fara Gautama
+i. September,S2,4-Sep-2026,Acqui,Grup C,Ananda Syafira,0:12:13,Online,ACQUI,2026-09-04,2026-09-04,Ananda Syafira
+i. September,S1,4-Sep-2026,Acqui,Grup B,Annya Anugrahaning,0:17:49,Online,ACQUI,2026-09-04,2026-09-04,Annya Anugrahaning
+i. September,S3,4-Sep-2026,Acqui,Grup B,Feliksia Astridaphira Tramaharani,0:12:52,Online,ACQUI,2026-09-04,2026-09-04,Feliksia Astridaphira Tramaharani
+i. September,OFF,4-Sep-2026,Acqui,Grup B,Muhammad Urwah,0:09:28,Offline,ACQUI,2026-09-04,2026-09-04,Muhammad Urwah
+i. September,S1,4-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:18:15,Online,ACQUI,2026-09-04,2026-09-04,Shavira Devi Shaliha
+i. September,S1,4-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:17:58,Online,ACQUI,2026-09-04,2026-09-04,Thia Amelia Butar Butar
+i. September,S1,4-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,0:09:46,Online,CS,2026-09-04,2026-09-04,Dewi Lailatul Badriyah
+i. September,OFF,4-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:12:47,Offline,CS,2026-09-04,2026-09-04,Inayah Rohmaniyah
+i. September,S1,4-Sep-2026,CX,Grup B,Meiza Muhammad Rizqi,0:11:23,Online,CS,2026-09-04,2026-09-04,Meiza Muhammad Rizqi
+i. September,OFF,4-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:22:02,Offline,CS,2026-09-04,2026-09-04,Nadzira Inayah Muthmainah
+i. September,S2,4-Sep-2026,CX,Grup A,Novena Graciana M Thasya K,0:12:28,Online,CS,2026-09-04,2026-09-04,Novena Graciana M Thasya K
+i. September,S3,4-Sep-2026,CX,Grup A,Pretty Kurnia Yuldiastuti,0:11:42,Online,CS,2026-09-04,2026-09-04,Pretty Kurnia Yuldiastuti
+i. September,S3,4-Sep-2026,CX,Grup A,Seno Ajianto,0:19:07,Online,CS,2026-09-04,2026-09-04,Seno Ajianto
+i. September,S1,4-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:10:35,Online,CS,2026-09-04,2026-09-04,Verrina Amira Harjo
+i. September,S1,4-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:10:22,Online,CS,2026-09-04,2026-09-04,Afifah Nur khasanah
+i. September,S1,4-Sep-2026,CX,Grup C,Anisya Ananda Putri,0:10:59,Online,CS,2026-09-04,2026-09-04,Anisya Ananda Putri
+i. September,S2,4-Sep-2026,CX,Grup B,Caroline Elsa Manuhua,0:09:40,Online,CS,2026-09-04,2026-09-04,Caroline Elsa Manuhua
+i. September,OFF,4-Sep-2026,CX,Grup A,Citra Risi Khaironissa,0:11:29,Offline,CS,2026-09-04,2026-09-04,Citra Risi Khaironissa
+i. September,S1,4-Sep-2026,CX,Grup C,Muhammad Hairul Nizam,0:14:44,Online,CS,2026-09-04,2026-09-04,Muhammad Hairul Nizam
+i. September,S1,4-Sep-2026,CX,Grup A,Muthiah Hanif Salsabilla,0:09:00,Online,CS,2026-09-04,2026-09-04,Muthiah Hanif Salsabilla
+i. September,S1,4-Sep-2026,CX,Grup A,Nurul Nisa,0:08:42,Online,CS,2026-09-04,2026-09-04,Nurul Nisa
+i. September,S2,4-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:08:03,Online,CS,2026-09-04,2026-09-04,Rahma Choirul Jannah Rahayu
+i. September,S1,4-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:09:49,Online,CS,2026-09-04,2026-09-04,Anisa Diah Roselawati
+i. September,S3,4-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:10:15,Online,CS,2026-09-04,2026-09-04,Arum Savitri Chairunisa
+i. September,S3,4-Sep-2026,CX,Grup B,Hanifah Rahmifisina Nirmalasari,0:08:48,Online,CS,2026-09-04,2026-09-04,Hanifah Rahmifisina Nirmalasari
+i. September,S1,4-Sep-2026,CX,Grup C,Karmilla Susilawati,0:10:37,Online,CS,2026-09-04,2026-09-04,Karmilla Susilawati
+i. September,OFF,4-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:08:51,Offline,CS,2026-09-04,2026-09-04,Nandita Khairunnisa
+i. September,S3,4-Sep-2026,CX,Grup C,Panca Rani Sakti,0:10:47,Online,CS,2026-09-04,2026-09-04,Panca Rani Sakti
+i. September,S1,4-Sep-2026,CX,Grup C,Puspita Wulandari,0:13:47,Online,CS,2026-09-04,2026-09-04,Puspita Wulandari
+i. September,S1,4-Sep-2026,CX,Grup A,Reniana Elya Azizatur Rojiyah,0:06:48,Online,CS,2026-09-04,2026-09-04,Reniana Elya Azizatur Rojiyah
+i. September,S2,4-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:09:38,Online,CS,2026-09-04,2026-09-04,Rihana Aulia Nafita
+i. September,S2,5-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:08:35,Online,ACQUI,2026-09-05,2026-09-05,Bella Deviana Dwi Prastiwi
+i. September,S2,5-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,0:08:54,Online,ACQUI,2026-09-05,2026-09-05,Dian Putri Saraswati
+i. September,S3,5-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,0:14:04,Online,ACQUI,2026-09-05,2026-09-05,Diaz Ahmad Fahrizal
+i. September,S2,5-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:07:08,Online,ACQUI,2026-09-05,2026-09-05,Fany Achmad Raihan
+i. September,S1,5-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:20:01,Online,ACQUI,2026-09-05,2026-09-05,Jacinta Aura Ramadhani
+i. September,OFF,5-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:00:00,Offline,ACQUI,2026-09-05,2026-09-05,Muhamad Zidan Adha
+i. September,S1,5-Sep-2026,Acqui,Grup A,Muhamad Dzikri Ahsani Hermawan,0:22:27,Online,ACQUI,2026-09-05,2026-09-05,Muhamad Dzikri Ahsani Hermawan
+i. September,OFF,5-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:02:05,Offline,ACQUI,2026-09-05,2026-09-05,Nidaan Khafiyya Yusbar
+i. September,S3,5-Sep-2026,Acqui,Grup A,Nisrina Nur,0:06:15,Online,ACQUI,2026-09-05,2026-09-05,Nisrina Nur
+i. September,S1,5-Sep-2026,Acqui,Grup A,Tari Devianti,0:17:49,Online,ACQUI,2026-09-05,2026-09-05,Tari Devianti
+i. September,OFF,5-Sep-2026,Acqui,Grup A,Alfattiya Putri Bennika,0:26:12,Offline,ACQUI,2026-09-05,2026-09-05,Alfattiya Putri Bennika
+i. September,S2,5-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:15:04,Online,ACQUI,2026-09-05,2026-09-05,Amaliah Bakti
+i. September,S3,5-Sep-2026,Acqui,Grup B,Ana Fitriani,0:13:44,Online,ACQUI,2026-09-05,2026-09-05,Ana Fitriani
+i. September,S1,5-Sep-2026,Acqui,Grup A,Bagas Adjie Dewanto,0:44:53,Online,ACQUI,2026-09-05,2026-09-05,Bagas Adjie Dewanto
+i. September,S1,5-Sep-2026,Acqui,Grup A,Fathya Aufa Lidinillah,0:18:11,Online,ACQUI,2026-09-05,2026-09-05,Fathya Aufa Lidinillah
+i. September,S3,5-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:16:22,Online,ACQUI,2026-09-05,2026-09-05,Hanifah Iftinan Saputri
+i. September,S3,5-Sep-2026,Acqui,Grup B,Kamila Faradila,0:07:15,Online,ACQUI,2026-09-05,2026-09-05,Kamila Faradila
+i. September,S1,5-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,0:20:16,Online,ACQUI,2026-09-05,2026-09-05,Salwa Rahmadiyanti
+i. September,OFF,5-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:29:58,Offline,ACQUI,2026-09-05,2026-09-05,Achmad Fara Gautama
+i. September,OFF,5-Sep-2026,Acqui,Grup C,Ananda Syafira,0:06:50,Offline,ACQUI,2026-09-05,2026-09-05,Ananda Syafira
+i. September,S1,5-Sep-2026,Acqui,Grup B,Annya Anugrahaning,0:17:59,Online,ACQUI,2026-09-05,2026-09-05,Annya Anugrahaning
+i. September,S2,5-Sep-2026,Acqui,Grup B,Feliksia Astridaphira Tramaharani,0:05:55,Online,ACQUI,2026-09-05,2026-09-05,Feliksia Astridaphira Tramaharani
+i. September,S1,5-Sep-2026,Acqui,Grup B,Muhammad Urwah,0:21:47,Online,ACQUI,2026-09-05,2026-09-05,Muhammad Urwah
+i. September,S1,5-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:21:38,Online,ACQUI,2026-09-05,2026-09-05,Shavira Devi Shaliha
+i. September,S1,5-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:12:51,Online,ACQUI,2026-09-05,2026-09-05,Thia Amelia Butar Butar
+i. September,S3,5-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,0:10:50,Online,CS,2026-09-05,2026-09-05,Dewi Lailatul Badriyah
+i. September,S1,5-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:12:53,Online,CS,2026-09-05,2026-09-05,Inayah Rohmaniyah
+i. September,S3,5-Sep-2026,CX,Grup B,Meiza Muhammad Rizqi,0:11:57,Online,CS,2026-09-05,2026-09-05,Meiza Muhammad Rizqi
+i. September,OFF,5-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:00:00,Offline,CS,2026-09-05,2026-09-05,Nadzira Inayah Muthmainah
+i. September,S1,5-Sep-2026,CX,Grup A,Novena Graciana M Thasya K,0:17:30,Online,CS,2026-09-05,2026-09-05,Novena Graciana M Thasya K
+i. September,S2,5-Sep-2026,CX,Grup A,Pretty Kurnia Yuldiastuti,0:12:49,Online,CS,2026-09-05,2026-09-05,Pretty Kurnia Yuldiastuti
+i. September,S3,5-Sep-2026,CX,Grup A,Seno Ajianto,0:15:01,Online,CS,2026-09-05,2026-09-05,Seno Ajianto
+i. September,S3,5-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:07:50,Online,CS,2026-09-05,2026-09-05,Verrina Amira Harjo
+i. September,S1,5-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:08:23,Online,CS,2026-09-05,2026-09-05,Afifah Nur khasanah
+i. September,S1,5-Sep-2026,CX,Grup C,Anisya Ananda Putri,0:21:23,Online,CS,2026-09-05,2026-09-05,Anisya Ananda Putri
+i. September,S1,5-Sep-2026,CX,Grup B,Caroline Elsa Manuhua,0:08:43,Online,CS,2026-09-05,2026-09-05,Caroline Elsa Manuhua
+i. September,S1,5-Sep-2026,CX,Grup A,Citra Risi Khaironissa,0:13:07,Online,CS,2026-09-05,2026-09-05,Citra Risi Khaironissa
+i. September,S1,5-Sep-2026,CX,Grup C,Muhammad Hairul Nizam,0:22:43,Online,CS,2026-09-05,2026-09-05,Muhammad Hairul Nizam
+i. September,S3,5-Sep-2026,CX,Grup A,Muthiah Hanif Salsabilla,0:12:28,Online,CS,2026-09-05,2026-09-05,Muthiah Hanif Salsabilla
+i. September,OFF,5-Sep-2026,CX,Grup A,Nurul Nisa,0:00:00,Offline,CS,2026-09-05,2026-09-05,Nurul Nisa
+i. September,S1,5-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:06:02,Online,CS,2026-09-05,2026-09-05,Rahma Choirul Jannah Rahayu
+i. September,S1,5-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:23:37,Online,CS,2026-09-05,2026-09-05,Anisa Diah Roselawati
+i. September,OFF,5-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:14:05,Offline,CS,2026-09-05,2026-09-05,Arum Savitri Chairunisa
+i. September,OFF,5-Sep-2026,CX,Grup B,Hanifah Rahmifisina Nirmalasari,0:03:57,Offline,CS,2026-09-05,2026-09-05,Hanifah Rahmifisina Nirmalasari
+i. September,S2,5-Sep-2026,CX,Grup C,Karmilla Susilawati,0:13:18,Online,CS,2026-09-05,2026-09-05,Karmilla Susilawati
+i. September,S1,5-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:13:17,Online,CS,2026-09-05,2026-09-05,Nandita Khairunnisa
+i. September,S2,5-Sep-2026,CX,Grup C,Panca Rani Sakti,0:10:23,Online,CS,2026-09-05,2026-09-05,Panca Rani Sakti
+i. September,S1,5-Sep-2026,CX,Grup C,Puspita Wulandari,0:26:31,Online,CS,2026-09-05,2026-09-05,Puspita Wulandari
+i. September,S1,5-Sep-2026,CX,Grup A,Reniana Elya Azizatur Rojiyah,0:05:10,Online,CS,2026-09-05,2026-09-05,Reniana Elya Azizatur Rojiyah
+i. September,S1,5-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:05:44,Online,CS,2026-09-05,2026-09-05,Rihana Aulia Nafita
+i. September,S3,6-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:05:52,Online,ACQUI,2026-09-06,2026-09-06,Bella Deviana Dwi Prastiwi
+i. September,S1,6-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,0:16:29,Online,ACQUI,2026-09-06,2026-09-06,Dian Putri Saraswati
+i. September,S2,6-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,0:17:51,Online,ACQUI,2026-09-06,2026-09-06,Diaz Ahmad Fahrizal
+i. September,S1,6-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:12:24,Online,ACQUI,2026-09-06,2026-09-06,Fany Achmad Raihan
+i. September,S1,6-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:14:53,Online,ACQUI,2026-09-06,2026-09-06,Jacinta Aura Ramadhani
+i. September,S1,6-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:19:34,Online,ACQUI,2026-09-06,2026-09-06,Muhamad Zidan Adha
+i. September,S1,6-Sep-2026,Acqui,Grup A,Muhamad Dzikri Ahsani Hermawan,0:21:52,Online,ACQUI,2026-09-06,2026-09-06,Muhamad Dzikri Ahsani Hermawan
+i. September,S1,6-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:09:29,Online,ACQUI,2026-09-06,2026-09-06,Nidaan Khafiyya Yusbar
+i. September,S2,6-Sep-2026,Acqui,Grup A,Nisrina Nur,0:08:37,Online,ACQUI,2026-09-06,2026-09-06,Nisrina Nur
+i. September,S1,6-Sep-2026,Acqui,Grup A,Tari Devianti,0:15:23,Online,ACQUI,2026-09-06,2026-09-06,Tari Devianti
+i. September,S1,6-Sep-2026,Acqui,Grup A,Alfattiya Putri Bennika,0:10:19,Online,ACQUI,2026-09-06,2026-09-06,Alfattiya Putri Bennika
+i. September,S1,6-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:21:09,Online,ACQUI,2026-09-06,2026-09-06,Amaliah Bakti
+i. September,S1,6-Sep-2026,Acqui,Grup B,Ana Fitriani,0:20:49,Online,ACQUI,2026-09-06,2026-09-06,Ana Fitriani
+i. September,S1,6-Sep-2026,Acqui,Grup A,Bagas Adjie Dewanto,0:22:25,Online,ACQUI,2026-09-06,2026-09-06,Bagas Adjie Dewanto
+i. September,S2,6-Sep-2026,Acqui,Grup A,Fathya Aufa Lidinillah,0:09:30,Online,ACQUI,2026-09-06,2026-09-06,Fathya Aufa Lidinillah
+i. September,S2,6-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:19:43,Online,ACQUI,2026-09-06,2026-09-06,Hanifah Iftinan Saputri
+i. September,S2,6-Sep-2026,Acqui,Grup B,Kamila Faradila,0:06:58,Online,ACQUI,2026-09-06,2026-09-06,Kamila Faradila
+i. September,S3,6-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,0:07:34,Online,ACQUI,2026-09-06,2026-09-06,Salwa Rahmadiyanti
+i. September,S3,6-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:13:48,Online,ACQUI,2026-09-06,2026-09-06,Achmad Fara Gautama
+i. September,S1,6-Sep-2026,Acqui,Grup C,Ananda Syafira,0:15:41,Online,ACQUI,2026-09-06,2026-09-06,Ananda Syafira
+i. September,S3,6-Sep-2026,Acqui,Grup B,Annya Anugrahaning,0:07:59,Online,ACQUI,2026-09-06,2026-09-06,Annya Anugrahaning
+i. September,S1,6-Sep-2026,Acqui,Grup B,Feliksia Astridaphira Tramaharani,0:16:10,Online,ACQUI,2026-09-06,2026-09-06,Feliksia Astridaphira Tramaharani
+i. September,S3,6-Sep-2026,Acqui,Grup B,Muhammad Urwah,0:06:20,Online,ACQUI,2026-09-06,2026-09-06,Muhammad Urwah
+i. September,S1,6-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:14:19,Online,ACQUI,2026-09-06,2026-09-06,Shavira Devi Shaliha
+i. September,S3,6-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:05:25,Online,ACQUI,2026-09-06,2026-09-06,Thia Amelia Butar Butar
+i. September,S2,6-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,0:05:00,Online,CS,2026-09-06,2026-09-06,Dewi Lailatul Badriyah
+i. September,S3,6-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:16:28,Online,CS,2026-09-06,2026-09-06,Inayah Rohmaniyah
+i. September,S2,6-Sep-2026,CX,Grup B,Meiza Muhammad Rizqi,0:11:54,Online,CS,2026-09-06,2026-09-06,Meiza Muhammad Rizqi
+i. September,OFF,6-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:00:00,Offline,CS,2026-09-06,2026-09-06,Nadzira Inayah Muthmainah
+i. September,S1,6-Sep-2026,CX,Grup A,Novena Graciana M Thasya K,0:17:45,Online,CS,2026-09-06,2026-09-06,Novena Graciana M Thasya K
+i. September,S1,6-Sep-2026,CX,Grup A,Pretty Kurnia Yuldiastuti,0:14:09,Online,CS,2026-09-06,2026-09-06,Pretty Kurnia Yuldiastuti
+i. September,S2,6-Sep-2026,CX,Grup A,Seno Ajianto,0:18:45,Online,CS,2026-09-06,2026-09-06,Seno Ajianto
+i. September,S2,6-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:11:30,Online,CS,2026-09-06,2026-09-06,Verrina Amira Harjo
+i. September,S1,6-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:11:55,Online,CS,2026-09-06,2026-09-06,Afifah Nur khasanah
+i. September,S1,6-Sep-2026,CX,Grup C,Anisya Ananda Putri,0:18:56,Online,CS,2026-09-06,2026-09-06,Anisya Ananda Putri
+i. September,S3,6-Sep-2026,CX,Grup B,Caroline Elsa Manuhua,0:11:41,Online,CS,2026-09-06,2026-09-06,Caroline Elsa Manuhua
+i. September,S1,6-Sep-2026,CX,Grup A,Citra Risi Khaironissa,0:10:33,Online,CS,2026-09-06,2026-09-06,Citra Risi Khaironissa
+i. September,S1,6-Sep-2026,CX,Grup C,Muhammad Hairul Nizam,0:19:22,Online,CS,2026-09-06,2026-09-06,Muhammad Hairul Nizam
+i. September,S2,6-Sep-2026,CX,Grup A,Muthiah Hanif Salsabilla,0:15:17,Online,CS,2026-09-06,2026-09-06,Muthiah Hanif Salsabilla
+i. September,S1,6-Sep-2026,CX,Grup A,Nurul Nisa,0:09:25,Online,CS,2026-09-06,2026-09-06,Nurul Nisa
+i. September,S3,6-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:07:19,Online,CS,2026-09-06,2026-09-06,Rahma Choirul Jannah Rahayu
+i. September,S1,6-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:13:43,Online,CS,2026-09-06,2026-09-06,Anisa Diah Roselawati
+i. September,S1,6-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:08:26,Online,CS,2026-09-06,2026-09-06,Arum Savitri Chairunisa
+i. September,S1,6-Sep-2026,CX,Grup B,Hanifah Rahmifisina Nirmalasari,0:03:04,Online,CS,2026-09-06,2026-09-06,Hanifah Rahmifisina Nirmalasari
+i. September,S3,6-Sep-2026,CX,Grup C,Karmilla Susilawati,0:07:11,Online,CS,2026-09-06,2026-09-06,Karmilla Susilawati
+i. September,S1,6-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:06:31,Online,CS,2026-09-06,2026-09-06,Nandita Khairunnisa
+i. September,S1,6-Sep-2026,CX,Grup C,Panca Rani Sakti,0:19:16,Online,CS,2026-09-06,2026-09-06,Panca Rani Sakti
+i. September,S3,6-Sep-2026,CX,Grup C,Puspita Wulandari,0:12:46,Online,CS,2026-09-06,2026-09-06,Puspita Wulandari
+i. September,S1,6-Sep-2026,CX,Grup A,Reniana Elya Azizatur Rojiyah,0:07:19,Online,CS,2026-09-06,2026-09-06,Reniana Elya Azizatur Rojiyah
+i. September,S3,6-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:09:11,Online,CS,2026-09-06,2026-09-06,Rihana Aulia Nafita
+i. September,S2,7-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:06:21,Online,ACQUI,2026-09-07,2026-09-07,Bella Deviana Dwi Prastiwi
+i. September,S1,7-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,0:25:22,Online,ACQUI,2026-09-07,2026-09-07,Dian Putri Saraswati
+i. September,S1,7-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,0:29:43,Online,ACQUI,2026-09-07,2026-09-07,Diaz Ahmad Fahrizal
+i. September,S3,7-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:05:17,Online,ACQUI,2026-09-07,2026-09-07,Fany Achmad Raihan
+i. September,S1,7-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:20:19,Online,ACQUI,2026-09-07,2026-09-07,Jacinta Aura Ramadhani
+i. September,S3,7-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:02:30,Online,ACQUI,2026-09-07,2026-09-07,Muhamad Zidan Adha
+i. September,S2,7-Sep-2026,Acqui,Grup A,Muhamad Dzikri Ahsani Hermawan,0:07:46,Online,ACQUI,2026-09-07,2026-09-07,Muhamad Dzikri Ahsani Hermawan
+i. September,OFF,7-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:00:00,Offline,ACQUI,2026-09-07,2026-09-07,Nidaan Khafiyya Yusbar
+i. September,S1,7-Sep-2026,Acqui,Grup A,Nisrina Nur,0:15:53,Online,ACQUI,2026-09-07,2026-09-07,Nisrina Nur
+i. September,S3,7-Sep-2026,Acqui,Grup A,Tari Devianti,0:03:56,Online,ACQUI,2026-09-07,2026-09-07,Tari Devianti
+i. September,S3,7-Sep-2026,Acqui,Grup A,Alfattiya Putri Bennika,0:06:25,Online,ACQUI,2026-09-07,2026-09-07,Alfattiya Putri Bennika
+i. September,OFF,7-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:00:00,Offline,ACQUI,2026-09-07,2026-09-07,Amaliah Bakti
+i. September,S1,7-Sep-2026,Acqui,Grup B,Ana Fitriani,0:30:42,Online,ACQUI,2026-09-07,2026-09-07,Ana Fitriani
+i. September,S3,7-Sep-2026,Acqui,Grup A,Bagas Adjie Dewanto,0:16:42,Online,ACQUI,2026-09-07,2026-09-07,Bagas Adjie Dewanto
+i. September,S1,7-Sep-2026,Acqui,Grup A,Fathya Aufa Lidinillah,0:19:02,Online,ACQUI,2026-09-07,2026-09-07,Fathya Aufa Lidinillah
+i. September,S1,7-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:23:36,Online,ACQUI,2026-09-07,2026-09-07,Hanifah Iftinan Saputri
+i. September,S1,7-Sep-2026,Acqui,Grup B,Kamila Faradila,0:18:07,Online,ACQUI,2026-09-07,2026-09-07,Kamila Faradila
+i. September,S2,7-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,0:13:01,Online,ACQUI,2026-09-07,2026-09-07,Salwa Rahmadiyanti
+i. September,S2,7-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:09:08,Online,ACQUI,2026-09-07,2026-09-07,Achmad Fara Gautama
+i. September,S1,7-Sep-2026,Acqui,Grup C,Ananda Syafira,0:14:51,Online,ACQUI,2026-09-07,2026-09-07,Ananda Syafira
+i. September,S2,7-Sep-2026,Acqui,Grup B,Annya Anugrahaning,0:09:20,Online,ACQUI,2026-09-07,2026-09-07,Annya Anugrahaning
+i. September,S3,7-Sep-2026,Acqui,Grup B,Feliksia Astridaphira Tramaharani,0:03:48,Online,ACQUI,2026-09-07,2026-09-07,Feliksia Astridaphira Tramaharani
+i. September,S2,7-Sep-2026,Acqui,Grup B,Muhammad Urwah,0:03:20,Online,ACQUI,2026-09-07,2026-09-07,Muhammad Urwah
+i. September,S1,7-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:28:34,Online,ACQUI,2026-09-07,2026-09-07,Shavira Devi Shaliha
+i. September,S2,7-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:10:12,Online,ACQUI,2026-09-07,2026-09-07,Thia Amelia Butar Butar
+i. September,S1,7-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,0:19:04,Online,CS,2026-09-07,2026-09-07,Dewi Lailatul Badriyah
+i. September,S2,7-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:29:52,Online,CS,2026-09-07,2026-09-07,Inayah Rohmaniyah
+i. September,S1,7-Sep-2026,CX,Grup B,Meiza Muhammad Rizqi,0:21:34,Online,CS,2026-09-07,2026-09-07,Meiza Muhammad Rizqi
+i. September,OFF,7-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:00:00,Offline,CS,2026-09-07,2026-09-07,Nadzira Inayah Muthmainah
+i. September,S3,7-Sep-2026,CX,Grup A,Novena Graciana M Thasya K,0:11:21,Online,CS,2026-09-07,2026-09-07,Novena Graciana M Thasya K
+i. September,S3,7-Sep-2026,CX,Grup A,Pretty Kurnia Yuldiastuti,0:21:35,Online,CS,2026-09-07,2026-09-07,Pretty Kurnia Yuldiastuti
+i. September,S1,7-Sep-2026,CX,Grup A,Seno Ajianto,0:35:06,Online,CS,2026-09-07,2026-09-07,Seno Ajianto
+i. September,S1,7-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:27:39,Online,CS,2026-09-07,2026-09-07,Verrina Amira Harjo
+i. September,S3,7-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:13:09,Online,CS,2026-09-07,2026-09-07,Afifah Nur khasanah
+i. September,S1,7-Sep-2026,CX,Grup C,Anisya Ananda Putri,0:28:38,Online,CS,2026-09-07,2026-09-07,Anisya Ananda Putri
+i. September,OFF,7-Sep-2026,CX,Grup B,Caroline Elsa Manuhua,0:00:41,Offline,CS,2026-09-07,2026-09-07,Caroline Elsa Manuhua
+i. September,S1,7-Sep-2026,CX,Grup A,Citra Risi Khaironissa,0:12:09,Online,CS,2026-09-07,2026-09-07,Citra Risi Khaironissa
+i. September,S3,7-Sep-2026,CX,Grup C,Muhammad Hairul Nizam,0:12:08,Online,CS,2026-09-07,2026-09-07,Muhammad Hairul Nizam
+i. September,S1,7-Sep-2026,CX,Grup A,Muthiah Hanif Salsabilla,0:15:05,Online,CS,2026-09-07,2026-09-07,Muthiah Hanif Salsabilla
+i. September,S3,7-Sep-2026,CX,Grup A,Nurul Nisa,0:13:17,Online,CS,2026-09-07,2026-09-07,Nurul Nisa
+i. September,S2,7-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:08:01,Online,CS,2026-09-07,2026-09-07,Rahma Choirul Jannah Rahayu
+i. September,S1,7-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:23:32,Online,CS,2026-09-07,2026-09-07,Anisa Diah Roselawati
+i. September,S3,7-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:28:52,Online,CS,2026-09-07,2026-09-07,Arum Savitri Chairunisa
+i. September,S1,7-Sep-2026,CX,Grup B,Hanifah Rahmifisina Nirmalasari,0:12:16,Online,CS,2026-09-07,2026-09-07,Hanifah Rahmifisina Nirmalasari
+i. September,S2,7-Sep-2026,CX,Grup C,Karmilla Susilawati,0:10:03,Online,CS,2026-09-07,2026-09-07,Karmilla Susilawati
+i. September,S1,7-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:07:24,Online,CS,2026-09-07,2026-09-07,Nandita Khairunnisa
+i. September,S1,7-Sep-2026,CX,Grup C,Panca Rani Sakti,0:16:17,Online,CS,2026-09-07,2026-09-07,Panca Rani Sakti
+i. September,S2,7-Sep-2026,CX,Grup C,Puspita Wulandari,0:18:54,Online,CS,2026-09-07,2026-09-07,Puspita Wulandari
+i. September,S1,7-Sep-2026,CX,Grup A,Reniana Elya Azizatur Rojiyah,0:09:02,Online,CS,2026-09-07,2026-09-07,Reniana Elya Azizatur Rojiyah
+i. September,S2,7-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:15:06,Online,CS,2026-09-07,2026-09-07,Rihana Aulia Nafita
+i. September,S1,8-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:16:40,Online,ACQUI,2026-09-08,2026-09-08,Bella Deviana Dwi Prastiwi
+i. September,S3,8-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,0:07:46,Online,ACQUI,2026-09-08,2026-09-08,Dian Putri Saraswati
+i. September,S1,8-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,0:12:04,Online,ACQUI,2026-09-08,2026-09-08,Diaz Ahmad Fahrizal
+i. September,S2,8-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:02:22,Online,ACQUI,2026-09-08,2026-09-08,Fany Achmad Raihan
+i. September,OFF,8-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:10:52,Offline,ACQUI,2026-09-08,2026-09-08,Jacinta Aura Ramadhani
+i. September,S2,8-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:03:34,Online,ACQUI,2026-09-08,2026-09-08,Muhamad Zidan Adha
+i. September,S1,8-Sep-2026,Acqui,Grup A,Muhamad Dzikri Ahsani Hermawan,0:29:51,Online,ACQUI,2026-09-08,2026-09-08,Muhamad Dzikri Ahsani Hermawan
+i. September,S3,8-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:04:50,Online,ACQUI,2026-09-08,2026-09-08,Nidaan Khafiyya Yusbar
+i. September,S1,8-Sep-2026,Acqui,Grup A,Nisrina Nur,0:17:28,Online,ACQUI,2026-09-08,2026-09-08,Nisrina Nur
+i. September,S2,8-Sep-2026,Acqui,Grup A,Tari Devianti,0:02:47,Online,ACQUI,2026-09-08,2026-09-08,Tari Devianti
+i. September,S2,8-Sep-2026,Acqui,Grup A,Alfattiya Putri Bennika,0:03:22,Online,ACQUI,2026-09-08,2026-09-08,Alfattiya Putri Bennika
+i. September,S1,8-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:34:28,Online,ACQUI,2026-09-08,2026-09-08,Amaliah Bakti
+i. September,S3,8-Sep-2026,Acqui,Grup B,Ana Fitriani,0:19:08,Online,ACQUI,2026-09-08,2026-09-08,Ana Fitriani
+i. September,S2,8-Sep-2026,Acqui,Grup A,Bagas Adjie Dewanto,0:09:36,Online,ACQUI,2026-09-08,2026-09-08,Bagas Adjie Dewanto
+i. September,S1,8-Sep-2026,Acqui,Grup A,Fathya Aufa Lidinillah,0:15:59,Online,ACQUI,2026-09-08,2026-09-08,Fathya Aufa Lidinillah
+i. September,OFF,8-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:00:00,Offline,ACQUI,2026-09-08,2026-09-08,Hanifah Iftinan Saputri
+i. September,S3,8-Sep-2026,Acqui,Grup B,Kamila Faradila,0:05:47,Online,ACQUI,2026-09-08,2026-09-08,Kamila Faradila
+i. September,S1,8-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,0:23:42,Online,ACQUI,2026-09-08,2026-09-08,Salwa Rahmadiyanti
+i. September,S1,8-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:09:32,Online,ACQUI,2026-09-08,2026-09-08,Achmad Fara Gautama
+i. September,S1,8-Sep-2026,Acqui,Grup C,Ananda Syafira,0:16:12,Online,ACQUI,2026-09-08,2026-09-08,Ananda Syafira
+i. September,S1,8-Sep-2026,Acqui,Grup B,Annya Anugrahaning,0:19:13,Online,ACQUI,2026-09-08,2026-09-08,Annya Anugrahaning
+i. September,S2,8-Sep-2026,Acqui,Grup B,Feliksia Astridaphira Tramaharani,0:06:32,Online,ACQUI,2026-09-08,2026-09-08,Feliksia Astridaphira Tramaharani
+i. September,S1,8-Sep-2026,Acqui,Grup B,Muhammad Urwah,0:11:56,Online,ACQUI,2026-09-08,2026-09-08,Muhammad Urwah
+i. September,S3,8-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:08:12,Online,ACQUI,2026-09-08,2026-09-08,Shavira Devi Shaliha
+i. September,S1,8-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:13:36,Online,ACQUI,2026-09-08,2026-09-08,Thia Amelia Butar Butar
+i. September,S3,8-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,0:08:19,Online,CS,2026-09-08,2026-09-08,Dewi Lailatul Badriyah
+i. September,S1,8-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:19:56,Online,CS,2026-09-08,2026-09-08,Inayah Rohmaniyah
+i. September,S3,8-Sep-2026,CX,Grup B,Meiza Muhammad Rizqi,0:18:35,Online,CS,2026-09-08,2026-09-08,Meiza Muhammad Rizqi
+i. September,OFF,8-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:00:00,Offline,CS,2026-09-08,2026-09-08,Nadzira Inayah Muthmainah
+i. September,S3,8-Sep-2026,CX,Grup A,Novena Graciana M Thasya K,0:18:35,Online,CS,2026-09-08,2026-09-08,Novena Graciana M Thasya K
+i. September,S2,8-Sep-2026,CX,Grup A,Pretty Kurnia Yuldiastuti,0:07:55,Online,CS,2026-09-08,2026-09-08,Pretty Kurnia Yuldiastuti
+i. September,S1,8-Sep-2026,CX,Grup A,Seno Ajianto,0:26:22,Online,CS,2026-09-08,2026-09-08,Seno Ajianto
+i. September,S1,8-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:15:33,Online,CS,2026-09-08,2026-09-08,Verrina Amira Harjo
+i. September,S2,8-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:12:04,Online,CS,2026-09-08,2026-09-08,Afifah Nur khasanah
+i. September,S1,8-Sep-2026,CX,Grup C,Anisya Ananda Putri,0:20:43,Online,CS,2026-09-08,2026-09-08,Anisya Ananda Putri
+i. September,S1,8-Sep-2026,CX,Grup A,Citra Risi Khaironissa,0:16:51,Online,CS,2026-09-08,2026-09-08,Citra Risi Khaironissa
+i. September,OFF,8-Sep-2026,CX,Grup C,Muhammad Hairul Nizam,0:04:38,Offline,CS,2026-09-08,2026-09-08,Muhammad Hairul Nizam
+i. September,S1,8-Sep-2026,CX,Grup A,Muthiah Hanif Salsabilla,0:11:18,Online,CS,2026-09-08,2026-09-08,Muthiah Hanif Salsabilla
+i. September,S2,8-Sep-2026,CX,Grup A,Nurul Nisa,0:15:57,Online,CS,2026-09-08,2026-09-08,Nurul Nisa
+i. September,S3,8-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:11:19,Online,CS,2026-09-08,2026-09-08,Rahma Choirul Jannah Rahayu
+i. September,S1,8-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:14:09,Online,CS,2026-09-08,2026-09-08,Anisa Diah Roselawati
+i. September,S2,8-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:13:27,Online,CS,2026-09-08,2026-09-08,Arum Savitri Chairunisa
+i. September,S3,8-Sep-2026,CX,Grup B,Hanifah Rahmifisina Nirmalasari,0:09:25,Online,CS,2026-09-08,2026-09-08,Hanifah Rahmifisina Nirmalasari
+i. September,S1,8-Sep-2026,CX,Grup C,Karmilla Susilawati,0:10:38,Online,CS,2026-09-08,2026-09-08,Karmilla Susilawati
+i. September,S2,8-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:07:36,Online,CS,2026-09-08,2026-09-08,Nandita Khairunnisa
+i. September,S1,8-Sep-2026,CX,Grup C,Panca Rani Sakti,0:09:01,Online,CS,2026-09-08,2026-09-08,Panca Rani Sakti
+i. September,OFF,8-Sep-2026,CX,Grup C,Puspita Wulandari,0:10:26,Offline,CS,2026-09-08,2026-09-08,Puspita Wulandari
+i. September,S1,8-Sep-2026,CX,Grup A,Reniana Elya Azizatur Rojiyah,0:07:21,Online,CS,2026-09-08,2026-09-08,Reniana Elya Azizatur Rojiyah
+i. September,S1,8-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:10:59,Online,CS,2026-09-08,2026-09-08,Rihana Aulia Nafita
+i. September,OFF,9-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:00:00,Offline,ACQUI,2026-09-09,2026-09-09,Bella Deviana Dwi Prastiwi
+i. September,S2,9-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,0:08:17,Online,ACQUI,2026-09-09,2026-09-09,Dian Putri Saraswati
+i. September,S3,9-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,0:18:05,Online,ACQUI,2026-09-09,2026-09-09,Diaz Ahmad Fahrizal
+i. September,S1,9-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:09:31,Online,ACQUI,2026-09-09,2026-09-09,Fany Achmad Raihan
+i. September,S3,9-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:06:27,Online,ACQUI,2026-09-09,2026-09-09,Jacinta Aura Ramadhani
+i. September,S1,9-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:14:25,Online,ACQUI,2026-09-09,2026-09-09,Muhamad Zidan Adha
+i. September,S3,9-Sep-2026,Acqui,Grup A,Muhamad Dzikri Ahsani Hermawan,0:04:46,Online,ACQUI,2026-09-09,2026-09-09,Muhamad Dzikri Ahsani Hermawan
+i. September,S2,9-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:06:30,Online,ACQUI,2026-09-09,2026-09-09,Nidaan Khafiyya Yusbar
+i. September,S3,9-Sep-2026,Acqui,Grup A,Nisrina Nur,0:07:03,Online,ACQUI,2026-09-09,2026-09-09,Nisrina Nur
+i. September,S1,9-Sep-2026,Acqui,Grup A,Tari Devianti,0:07:24,Online,ACQUI,2026-09-09,2026-09-09,Tari Devianti
+i. September,S1,9-Sep-2026,Acqui,Grup A,Alfattiya Putri Bennika,0:08:49,Online,ACQUI,2026-09-09,2026-09-09,Alfattiya Putri Bennika
+i. September,S1,9-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:16:35,Online,ACQUI,2026-09-09,2026-09-09,Amaliah Bakti
+i. September,S2,9-Sep-2026,Acqui,Grup B,Ana Fitriani,0:29:21,Online,ACQUI,2026-09-09,2026-09-09,Ana Fitriani
+i. September,OFF,9-Sep-2026,Acqui,Grup A,Bagas Adjie Dewanto,0:10:10,Offline,ACQUI,2026-09-09,2026-09-09,Bagas Adjie Dewanto
+i. September,S1,9-Sep-2026,Acqui,Grup A,Fathya Aufa Lidinillah,0:12:30,Online,ACQUI,2026-09-09,2026-09-09,Fathya Aufa Lidinillah
+i. September,S1,9-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:21:54,Online,ACQUI,2026-09-09,2026-09-09,Hanifah Iftinan Saputri
+i. September,S2,9-Sep-2026,Acqui,Grup B,Kamila Faradila,0:08:54,Online,ACQUI,2026-09-09,2026-09-09,Kamila Faradila
+i. September,S1,9-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,0:15:14,Online,ACQUI,2026-09-09,2026-09-09,Salwa Rahmadiyanti
+i. September,S1,9-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:15:00,Online,ACQUI,2026-09-09,2026-09-09,Achmad Fara Gautama
+i. September,S1,9-Sep-2026,Acqui,Grup C,Ananda Syafira,0:10:13,Online,ACQUI,2026-09-09,2026-09-09,Ananda Syafira
+i. September,S3,9-Sep-2026,Acqui,Grup B,Annya Anugrahaning,0:06:20,Online,ACQUI,2026-09-09,2026-09-09,Annya Anugrahaning
+i. September,OFF,9-Sep-2026,Acqui,Grup B,Feliksia Astridaphira Tramaharani,0:00:00,Offline,ACQUI,2026-09-09,2026-09-09,Feliksia Astridaphira Tramaharani
+i. September,S1,9-Sep-2026,Acqui,Grup B,Muhammad Urwah,0:09:26,Online,ACQUI,2026-09-09,2026-09-09,Muhammad Urwah
+i. September,S2,9-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:11:14,Online,ACQUI,2026-09-09,2026-09-09,Shavira Devi Shaliha
+i. September,S1,9-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:13:25,Online,ACQUI,2026-09-09,2026-09-09,Thia Amelia Butar Butar
+i. September,S3,9-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,0:20:16,Online,CS,2026-09-09,2026-09-09,Dewi Lailatul Badriyah
+i. September,S1,9-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:24:58,Online,CS,2026-09-09,2026-09-09,Inayah Rohmaniyah
+i. September,S2,9-Sep-2026,CX,Grup B,Meiza Muhammad Rizqi,0:11:03,Online,CS,2026-09-09,2026-09-09,Meiza Muhammad Rizqi
+i. September,OFF,9-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:00:00,Offline,CS,2026-09-09,2026-09-09,Nadzira Inayah Muthmainah
+i. September,OFF,9-Sep-2026,CX,Grup A,Novena Graciana M Thasya K,0:22:03,Offline,CS,2026-09-09,2026-09-09,Novena Graciana M Thasya K
+i. September,S3,9-Sep-2026,CX,Grup A,Pretty Kurnia Yuldiastuti,0:11:47,Online,CS,2026-09-09,2026-09-09,Pretty Kurnia Yuldiastuti
+i. September,S1,9-Sep-2026,CX,Grup A,Seno Ajianto,0:28:00,Online,CS,2026-09-09,2026-09-09,Seno Ajianto
+i. September,S2,9-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:21:54,Online,CS,2026-09-09,2026-09-09,Verrina Amira Harjo
+i. September,S1,9-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:12:18,Online,CS,2026-09-09,2026-09-09,Afifah Nur khasanah
+i. September,S1,9-Sep-2026,CX,Grup C,Anisya Ananda Putri,0:19:48,Online,CS,2026-09-09,2026-09-09,Anisya Ananda Putri
+i. September,S3,9-Sep-2026,CX,Grup A,Citra Risi Khaironissa,0:23:13,Online,CS,2026-09-09,2026-09-09,Citra Risi Khaironissa
+i. September,S1,9-Sep-2026,CX,Grup C,Muhammad Hairul Nizam,0:19:49,Online,CS,2026-09-09,2026-09-09,Muhammad Hairul Nizam
+i. September,OFF,9-Sep-2026,CX,Grup A,Muthiah Hanif Salsabilla,0:00:00,Offline,CS,2026-09-09,2026-09-09,Muthiah Hanif Salsabilla
+i. September,S1,9-Sep-2026,CX,Grup A,Nurul Nisa,0:11:59,Online,CS,2026-09-09,2026-09-09,Nurul Nisa
+i. September,S3,9-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:13:29,Online,CS,2026-09-09,2026-09-09,Rahma Choirul Jannah Rahayu
+i. September,S2,9-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:16:13,Online,CS,2026-09-09,2026-09-09,Anisa Diah Roselawati
+i. September,S1,9-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:24:43,Online,CS,2026-09-09,2026-09-09,Arum Savitri Chairunisa
+i. September,OFF,9-Sep-2026,CX,Grup B,Hanifah Rahmifisina Nirmalasari,0:00:00,Offline,CS,2026-09-09,2026-09-09,Hanifah Rahmifisina Nirmalasari
+i. September,S1,9-Sep-2026,CX,Grup C,Karmilla Susilawati,0:13:13,Online,CS,2026-09-09,2026-09-09,Karmilla Susilawati
+i. September,S2,9-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:07:41,Online,CS,2026-09-09,2026-09-09,Nandita Khairunnisa
+i. September,S1,9-Sep-2026,CX,Grup C,Panca Rani Sakti,0:11:39,Online,CS,2026-09-09,2026-09-09,Panca Rani Sakti
+i. September,S1,9-Sep-2026,CX,Grup C,Puspita Wulandari,0:25:43,Online,CS,2026-09-09,2026-09-09,Puspita Wulandari
+i. September,S1,9-Sep-2026,CX,Grup A,Reniana Elya Azizatur Rojiyah,0:06:11,Online,CS,2026-09-09,2026-09-09,Reniana Elya Azizatur Rojiyah
+i. September,S3,9-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:12:40,Online,CS,2026-09-09,2026-09-09,Rihana Aulia Nafita
+i. September,S2,10-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:05:02,Online,ACQUI,2026-09-10,2026-09-10,Bella Deviana Dwi Prastiwi
+i. September,S3,10-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,0:07:52,Online,ACQUI,2026-09-10,2026-09-10,Dian Putri Saraswati
+i. September,S1,10-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,0:15:01,Online,ACQUI,2026-09-10,2026-09-10,Diaz Ahmad Fahrizal
+i. September,S1,10-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:09:49,Online,ACQUI,2026-09-10,2026-09-10,Fany Achmad Raihan
+i. September,S2,10-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:03:27,Online,ACQUI,2026-09-10,2026-09-10,Jacinta Aura Ramadhani
+i. September,S1,10-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:14:16,Online,ACQUI,2026-09-10,2026-09-10,Muhamad Zidan Adha
+i. September,S2,10-Sep-2026,Acqui,Grup A,Muhamad Dzikri Ahsani Hermawan,0:05:46,Online,ACQUI,2026-09-10,2026-09-10,Muhamad Dzikri Ahsani Hermawan
+i. September,OFF,10-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:00:00,Offline,ACQUI,2026-09-10,2026-09-10,Nidaan Khafiyya Yusbar
+i. September,OFF,10-Sep-2026,Acqui,Grup A,Nisrina Nur,0:01:05,Offline,ACQUI,2026-09-10,2026-09-10,Nisrina Nur
+i. September,S1,10-Sep-2026,Acqui,Grup A,Tari Devianti,0:13:56,Online,ACQUI,2026-09-10,2026-09-10,Tari Devianti
+i. September,S1,10-Sep-2026,Acqui,Grup A,Alfattiya Putri Bennika,0:24:50,Online,ACQUI,2026-09-10,2026-09-10,Alfattiya Putri Bennika
+i. September,S3,10-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:08:59,Online,ACQUI,2026-09-10,2026-09-10,Amaliah Bakti
+i. September,S3,10-Sep-2026,Acqui,Grup B,Ana Fitriani,0:18:59,Online,ACQUI,2026-09-10,2026-09-10,Ana Fitriani
+i. September,S1,10-Sep-2026,Acqui,Grup A,Bagas Adjie Dewanto,0:27:37,Online,ACQUI,2026-09-10,2026-09-10,Bagas Adjie Dewanto
+i. September,OFF,10-Sep-2026,Acqui,Grup A,Fathya Aufa Lidinillah,0:20:14,Offline,ACQUI,2026-09-10,2026-09-10,Fathya Aufa Lidinillah
+i. September,S3,10-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:13:17,Online,ACQUI,2026-09-10,2026-09-10,Hanifah Iftinan Saputri
+i. September,S1,10-Sep-2026,Acqui,Grup B,Kamila Faradila,0:17:29,Online,ACQUI,2026-09-10,2026-09-10,Kamila Faradila
+i. September,S3,10-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,0:04:13,Online,ACQUI,2026-09-10,2026-09-10,Salwa Rahmadiyanti
+i. September,OFF,10-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:24:38,Offline,ACQUI,2026-09-10,2026-09-10,Achmad Fara Gautama
+i. September,S2,10-Sep-2026,Acqui,Grup C,Ananda Syafira,0:11:30,Online,ACQUI,2026-09-10,2026-09-10,Ananda Syafira
+i. September,S2,10-Sep-2026,Acqui,Grup B,Annya Anugrahaning,0:07:22,Online,ACQUI,2026-09-10,2026-09-10,Annya Anugrahaning
+i. September,S1,10-Sep-2026,Acqui,Grup B,Feliksia Astridaphira Tramaharani,0:11:51,Online,ACQUI,2026-09-10,2026-09-10,Feliksia Astridaphira Tramaharani
+i. September,S1,10-Sep-2026,Acqui,Grup B,Muhammad Urwah,0:09:16,Online,ACQUI,2026-09-10,2026-09-10,Muhammad Urwah
+i. September,S1,10-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:23:10,Online,ACQUI,2026-09-10,2026-09-10,Shavira Devi Shaliha
+i. September,S1,10-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:22:51,Online,ACQUI,2026-09-10,2026-09-10,Thia Amelia Butar Butar
+i. September,OFF,10-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,1:01:50,Offline,CS,2026-09-10,2026-09-10,Dewi Lailatul Badriyah
+i. September,S3,10-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:14:06,Online,CS,2026-09-10,2026-09-10,Inayah Rohmaniyah
+i. September,OFF,10-Sep-2026,CX,Grup B,Meiza Muhammad Rizqi,0:00:00,Offline,CS,2026-09-10,2026-09-10,Meiza Muhammad Rizqi
+i. September,S2,10-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:42:12,Online,CS,2026-09-10,2026-09-10,Nadzira Inayah Muthmainah
+i. September,S1,10-Sep-2026,CX,Grup A,Novena Graciana M Thasya K,0:17:18,Online,CS,2026-09-10,2026-09-10,Novena Graciana M Thasya K
+i. September,OFF,10-Sep-2026,CX,Grup A,Pretty Kurnia Yuldiastuti,0:00:00,Offline,CS,2026-09-10,2026-09-10,Pretty Kurnia Yuldiastuti
+i. September,S1,10-Sep-2026,CX,Grup A,Seno Ajianto,0:27:37,Online,CS,2026-09-10,2026-09-10,Seno Ajianto
+i. September,S1,10-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:26:36,Online,CS,2026-09-10,2026-09-10,Verrina Amira Harjo
+i. September,S2,10-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:08:07,Online,CS,2026-09-10,2026-09-10,Afifah Nur khasanah
+i. September,S3,10-Sep-2026,CX,Grup C,Anisya Ananda Putri,0:10:29,Online,CS,2026-09-10,2026-09-10,Anisya Ananda Putri
+i. September,S1,10-Sep-2026,CX,Grup B,Caroline Elsa Manuhua,0:18:20,Online,CS,2026-09-10,2026-09-10,Caroline Elsa Manuhua
+i. September,OFF,10-Sep-2026,CX,Grup A,Citra Risi Khaironissa,0:41:05,Offline,CS,2026-09-10,2026-09-10,Citra Risi Khaironissa
+i. September,S1,10-Sep-2026,CX,Grup C,Muhammad Hairul Nizam,0:18:07,Online,CS,2026-09-10,2026-09-10,Muhammad Hairul Nizam
+i. September,S1,10-Sep-2026,CX,Grup A,Muthiah Hanif Salsabilla,0:14:37,Online,CS,2026-09-10,2026-09-10,Muthiah Hanif Salsabilla
+i. September,S3,10-Sep-2026,CX,Grup A,Nurul Nisa,0:10:47,Online,CS,2026-09-10,2026-09-10,Nurul Nisa
+i. September,OFF,10-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:02:14,Offline,CS,2026-09-10,2026-09-10,Rahma Choirul Jannah Rahayu
+i. September,S1,10-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:13:00,Online,CS,2026-09-10,2026-09-10,Anisa Diah Roselawati
+i. September,S1,10-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:12:14,Online,CS,2026-09-10,2026-09-10,Arum Savitri Chairunisa
+i. September,S2,10-Sep-2026,CX,Grup B,Hanifah Rahmifisina Nirmalasari,0:05:07,Online,CS,2026-09-10,2026-09-10,Hanifah Rahmifisina Nirmalasari
+i. September,S1,10-Sep-2026,CX,Grup C,Karmilla Susilawati,0:16:38,Online,CS,2026-09-10,2026-09-10,Karmilla Susilawati
+i. September,S1,10-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:09:27,Online,CS,2026-09-10,2026-09-10,Nandita Khairunnisa
+i. September,S3,10-Sep-2026,CX,Grup C,Panca Rani Sakti,0:10:23,Online,CS,2026-09-10,2026-09-10,Panca Rani Sakti
+i. September,S3,10-Sep-2026,CX,Grup C,Puspita Wulandari,0:12:59,Online,CS,2026-09-10,2026-09-10,Puspita Wulandari
+i. September,S1,10-Sep-2026,CX,Grup A,Reniana Elya Azizatur Rojiyah,0:12:22,Online,CS,2026-09-10,2026-09-10,Reniana Elya Azizatur Rojiyah
+i. September,OFF,10-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:13:06,Offline,CS,2026-09-10,2026-09-10,Rihana Aulia Nafita
+i. September,S1,11-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:24:39,Online,ACQUI,2026-09-11,2026-09-11,Bella Deviana Dwi Prastiwi
+i. September,S1,11-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,0:09:14,Online,ACQUI,2026-09-11,2026-09-11,Dian Putri Saraswati
+i. September,S2,11-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,1:02:07,Online,ACQUI,2026-09-11,2026-09-11,Diaz Ahmad Fahrizal
+i. September,S2,11-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:01:33,Online,ACQUI,2026-09-11,2026-09-11,Fany Achmad Raihan
+i. September,S1,11-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:25:20,Online,ACQUI,2026-09-11,2026-09-11,Jacinta Aura Ramadhani
+i. September,S2,11-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:04:46,Online,ACQUI,2026-09-11,2026-09-11,Muhamad Zidan Adha
+i. September,S1,11-Sep-2026,Acqui,Grup A,Muhamad Dzikri Ahsani Hermawan,0:36:56,Online,ACQUI,2026-09-11,2026-09-11,Muhamad Dzikri Ahsani Hermawan
+i. September,S1,11-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:11:10,Online,ACQUI,2026-09-11,2026-09-11,Nidaan Khafiyya Yusbar
+i. September,S3,11-Sep-2026,Acqui,Grup A,Nisrina Nur,0:07:58,Online,ACQUI,2026-09-11,2026-09-11,Nisrina Nur
+i. September,S3,11-Sep-2026,Acqui,Grup A,Tari Devianti,0:04:19,Online,ACQUI,2026-09-11,2026-09-11,Tari Devianti
+i. September,S1,11-Sep-2026,Acqui,Grup A,Alfattiya Putri Bennika,0:29:57,Online,ACQUI,2026-09-11,2026-09-11,Alfattiya Putri Bennika
+i. September,S2,11-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:13:05,Online,ACQUI,2026-09-11,2026-09-11,Amaliah Bakti
+i. September,OFF,11-Sep-2026,Acqui,Grup B,Ana Fitriani,0:34:27,Offline,ACQUI,2026-09-11,2026-09-11,Ana Fitriani
+i. September,S1,11-Sep-2026,Acqui,Grup A,Bagas Adjie Dewanto,0:26:35,Online,ACQUI,2026-09-11,2026-09-11,Bagas Adjie Dewanto
+i. September,S3,11-Sep-2026,Acqui,Grup A,Fathya Aufa Lidinillah,0:09:47,Online,ACQUI,2026-09-11,2026-09-11,Fathya Aufa Lidinillah
+i. September,S2,11-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:21:08,Online,ACQUI,2026-09-11,2026-09-11,Hanifah Iftinan Saputri
+i. September,OFF,11-Sep-2026,Acqui,Grup B,Kamila Faradila,0:09:08,Offline,ACQUI,2026-09-11,2026-09-11,Kamila Faradila
+i. September,S2,11-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,0:06:09,Online,ACQUI,2026-09-11,2026-09-11,Salwa Rahmadiyanti
+i. September,S1,11-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:33:56,Online,ACQUI,2026-09-11,2026-09-11,Achmad Fara Gautama
+i. September,S1,11-Sep-2026,Acqui,Grup C,Ananda Syafira,0:27:46,Online,ACQUI,2026-09-11,2026-09-11,Ananda Syafira
+i. September,S1,11-Sep-2026,Acqui,Grup B,Annya Anugrahaning,0:29:08,Online,ACQUI,2026-09-11,2026-09-11,Annya Anugrahaning
+i. September,S3,11-Sep-2026,Acqui,Grup B,Feliksia Astridaphira Tramaharani,0:03:29,Online,ACQUI,2026-09-11,2026-09-11,Feliksia Astridaphira Tramaharani
+i. September,S3,11-Sep-2026,Acqui,Grup B,Muhammad Urwah,0:12:15,Online,ACQUI,2026-09-11,2026-09-11,Muhammad Urwah
+i. September,OFF,11-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:31:14,Offline,ACQUI,2026-09-11,2026-09-11,Shavira Devi Shaliha
+i. September,OFF,11-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:22:29,Offline,ACQUI,2026-09-11,2026-09-11,Thia Amelia Butar Butar
+i. September,OFF,11-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,0:00:00,Offline,CS,2026-09-11,2026-09-11,Dewi Lailatul Badriyah
+i. September,OFF,11-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:05:40,Offline,CS,2026-09-11,2026-09-11,Inayah Rohmaniyah
+i. September,OFF,11-Sep-2026,CX,Grup B,Meiza Muhammad Rizqi,0:00:00,Offline,CS,2026-09-11,2026-09-11,Meiza Muhammad Rizqi
+i. September,S1,11-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:18:15,Online,CS,2026-09-11,2026-09-11,Nadzira Inayah Muthmainah
+i. September,S1,11-Sep-2026,CX,Grup A,Novena Graciana M Thasya K,0:15:31,Online,CS,2026-09-11,2026-09-11,Novena Graciana M Thasya K
+i. September,OFF,11-Sep-2026,CX,Grup A,Pretty Kurnia Yuldiastuti,0:00:00,Offline,CS,2026-09-11,2026-09-11,Pretty Kurnia Yuldiastuti
+i. September,S3,11-Sep-2026,CX,Grup A,Seno Ajianto,0:06:16,Online,CS,2026-09-11,2026-09-11,Seno Ajianto
+i. September,S1,11-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:17:51,Online,CS,2026-09-11,2026-09-11,Verrina Amira Harjo
+i. September,S3,11-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:08:35,Online,CS,2026-09-11,2026-09-11,Afifah Nur khasanah
+i. September,S2,11-Sep-2026,CX,Grup C,Anisya Ananda Putri,0:12:00,Online,CS,2026-09-11,2026-09-11,Anisya Ananda Putri
+i. September,S2,11-Sep-2026,CX,Grup B,Caroline Elsa Manuhua,0:05:45,Online,CS,2026-09-11,2026-09-11,Caroline Elsa Manuhua
+i. September,S1,11-Sep-2026,CX,Grup A,Citra Risi Khaironissa,0:11:40,Online,CS,2026-09-11,2026-09-11,Citra Risi Khaironissa
+i. September,S1,11-Sep-2026,CX,Grup C,Muhammad Hairul Nizam,0:08:59,Online,CS,2026-09-11,2026-09-11,Muhammad Hairul Nizam
+i. September,S3,11-Sep-2026,CX,Grup A,Muthiah Hanif Salsabilla,0:03:18,Online,CS,2026-09-11,2026-09-11,Muthiah Hanif Salsabilla
+i. September,OFF,11-Sep-2026,CX,Grup A,Nurul Nisa,0:00:00,Offline,CS,2026-09-11,2026-09-11,Nurul Nisa
+i. September,S3,11-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:11:39,Online,CS,2026-09-11,2026-09-11,Rahma Choirul Jannah Rahayu
+i. September,S2,11-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:05:53,Online,CS,2026-09-11,2026-09-11,Anisa Diah Roselawati
+i. September,S1,11-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:19:18,Online,CS,2026-09-11,2026-09-11,Arum Savitri Chairunisa
+i. September,S1,11-Sep-2026,CX,Grup B,Hanifah Rahmifisina Nirmalasari,0:07:02,Online,CS,2026-09-11,2026-09-11,Hanifah Rahmifisina Nirmalasari
+i. September,S1,11-Sep-2026,CX,Grup C,Karmilla Susilawati,0:12:37,Online,CS,2026-09-11,2026-09-11,Karmilla Susilawati
+i. September,S1,11-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:19:57,Online,CS,2026-09-11,2026-09-11,Nandita Khairunnisa
+i. September,OFF,11-Sep-2026,CX,Grup C,Panca Rani Sakti,0:06:11,Offline,CS,2026-09-11,2026-09-11,Panca Rani Sakti
+i. September,S2,11-Sep-2026,CX,Grup C,Puspita Wulandari,0:16:36,Online,CS,2026-09-11,2026-09-11,Puspita Wulandari
+i. September,S3,11-Sep-2026,CX,Grup A,Reniana Elya Azizatur Rojiyah,0:03:46,Online,CS,2026-09-11,2026-09-11,Reniana Elya Azizatur Rojiyah
+i. September,S1,11-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:15:58,Online,CS,2026-09-11,2026-09-11,Rihana Aulia Nafita
+i. September,S1,12-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:27:20,Online,ACQUI,2026-09-12,2026-09-12,Bella Deviana Dwi Prastiwi
+i. September,S1,12-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,0:08:24,Online,ACQUI,2026-09-12,2026-09-12,Dian Putri Saraswati
+i. September,S3,12-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,0:29:35,Online,ACQUI,2026-09-12,2026-09-12,Diaz Ahmad Fahrizal
+i. September,S2,12-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:06:27,Online,ACQUI,2026-09-12,2026-09-12,Fany Achmad Raihan
+i. September,S3,12-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:04:08,Online,ACQUI,2026-09-12,2026-09-12,Jacinta Aura Ramadhani
+i. September,S1,12-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:25:57,Online,ACQUI,2026-09-12,2026-09-12,Muhamad Zidan Adha
+i. September,S1,12-Sep-2026,Acqui,Grup A,Muhamad Dzikri Ahsani Hermawan,0:23:41,Online,ACQUI,2026-09-12,2026-09-12,Muhamad Dzikri Ahsani Hermawan
+i. September,S1,12-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:16:38,Online,ACQUI,2026-09-12,2026-09-12,Nidaan Khafiyya Yusbar
+i. September,S2,12-Sep-2026,Acqui,Grup A,Nisrina Nur,0:06:44,Online,ACQUI,2026-09-12,2026-09-12,Nisrina Nur
+i. September,S2,12-Sep-2026,Acqui,Grup A,Tari Devianti,0:08:40,Online,ACQUI,2026-09-12,2026-09-12,Tari Devianti
+i. September,OFF,12-Sep-2026,Acqui,Grup A,Alfattiya Putri Bennika,0:13:43,Offline,ACQUI,2026-09-12,2026-09-12,Alfattiya Putri Bennika
+i. September,OFF,12-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:45:34,Offline,ACQUI,2026-09-12,2026-09-12,Amaliah Bakti
+i. September,S1,12-Sep-2026,Acqui,Grup B,Ana Fitriani,0:58:41,Online,ACQUI,2026-09-12,2026-09-12,Ana Fitriani
+i. September,S3,12-Sep-2026,Acqui,Grup A,Bagas Adjie Dewanto,0:13:56,Online,ACQUI,2026-09-12,2026-09-12,Bagas Adjie Dewanto
+i. September,S2,12-Sep-2026,Acqui,Grup A,Fathya Aufa Lidinillah,0:08:06,Online,ACQUI,2026-09-12,2026-09-12,Fathya Aufa Lidinillah
+i. September,S3,12-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:07:09,Online,ACQUI,2026-09-12,2026-09-12,Hanifah Iftinan Saputri
+i. September,S1,12-Sep-2026,Acqui,Grup B,Kamila Faradila,0:21:16,Online,ACQUI,2026-09-12,2026-09-12,Kamila Faradila
+i. September,S1,12-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,0:20:35,Online,ACQUI,2026-09-12,2026-09-12,Salwa Rahmadiyanti
+i. September,S1,12-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:18:54,Online,ACQUI,2026-09-12,2026-09-12,Achmad Fara Gautama
+i. September,OFF,12-Sep-2026,Acqui,Grup C,Ananda Syafira,0:09:40,Offline,ACQUI,2026-09-12,2026-09-12,Ananda Syafira
+i. September,OFF,12-Sep-2026,Acqui,Grup B,Annya Anugrahaning,0:00:00,Offline,ACQUI,2026-09-12,2026-09-12,Annya Anugrahaning
+i. September,S2,12-Sep-2026,Acqui,Grup B,Feliksia Astridaphira Tramaharani,0:18:15,Online,ACQUI,2026-09-12,2026-09-12,Feliksia Astridaphira Tramaharani
+i. September,S2,12-Sep-2026,Acqui,Grup B,Muhammad Urwah,0:16:47,Online,ACQUI,2026-09-12,2026-09-12,Muhammad Urwah
+i. September,S1,12-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:23:46,Online,ACQUI,2026-09-12,2026-09-12,Shavira Devi Shaliha
+i. September,S1,12-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:16:54,Online,ACQUI,2026-09-12,2026-09-12,Thia Amelia Butar Butar
+i. September,S1,12-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,0:12:13,Online,CS,2026-09-12,2026-09-12,Dewi Lailatul Badriyah
+i. September,S1,12-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:19:28,Online,CS,2026-09-12,2026-09-12,Inayah Rohmaniyah
+i. September,S3,12-Sep-2026,CX,Grup B,Meiza Muhammad Rizqi,0:08:36,Online,CS,2026-09-12,2026-09-12,Meiza Muhammad Rizqi
+i. September,S1,12-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:20:15,Online,CS,2026-09-12,2026-09-12,Nadzira Inayah Muthmainah
+i. September,OFF,12-Sep-2026,CX,Grup A,Novena Graciana M Thasya K,0:00:00,Offline,CS,2026-09-12,2026-09-12,Novena Graciana M Thasya K
+i. September,OFF,12-Sep-2026,CX,Grup A,Pretty Kurnia Yuldiastuti,0:00:00,Offline,CS,2026-09-12,2026-09-12,Pretty Kurnia Yuldiastuti
+i. September,S3,12-Sep-2026,CX,Grup A,Seno Ajianto,0:04:36,Online,CS,2026-09-12,2026-09-12,Seno Ajianto
+i. September,OFF,12-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:00:00,Offline,CS,2026-09-12,2026-09-12,Verrina Amira Harjo
+i. September,OFF,12-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:11:02,Offline,CS,2026-09-12,2026-09-12,Afifah Nur khasanah
+i. September,OFF,12-Sep-2026,CX,Grup C,Anisya Ananda Putri,0:00:00,Offline,CS,2026-09-12,2026-09-12,Anisya Ananda Putri
+i. September,S1,12-Sep-2026,CX,Grup B,Caroline Elsa Manuhua,0:07:21,Online,CS,2026-09-12,2026-09-12,Caroline Elsa Manuhua
+i. September,S3,12-Sep-2026,CX,Grup A,Citra Risi Khaironissa,0:04:23,Online,CS,2026-09-12,2026-09-12,Citra Risi Khaironissa
+i. September,S3,12-Sep-2026,CX,Grup C,Muhammad Hairul Nizam,0:09:34,Online,CS,2026-09-12,2026-09-12,Muhammad Hairul Nizam
+i. September,S2,12-Sep-2026,CX,Grup A,Muthiah Hanif Salsabilla,0:03:15,Online,CS,2026-09-12,2026-09-12,Muthiah Hanif Salsabilla
+i. September,S1,12-Sep-2026,CX,Grup A,Nurul Nisa,0:11:04,Online,CS,2026-09-12,2026-09-12,Nurul Nisa
+i. September,S2,12-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:09:16,Online,CS,2026-09-12,2026-09-12,Rahma Choirul Jannah Rahayu
+i. September,S1,12-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:07:31,Online,CS,2026-09-12,2026-09-12,Anisa Diah Roselawati
+i. September,S1,12-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:04:12,Online,CS,2026-09-12,2026-09-12,Arum Savitri Chairunisa
+i. September,S1,12-Sep-2026,CX,Grup B,Hanifah Rahmifisina Nirmalasari,0:07:15,Online,CS,2026-09-12,2026-09-12,Hanifah Rahmifisina Nirmalasari
+i. September,OFF,12-Sep-2026,CX,Grup C,Karmilla Susilawati,0:00:00,Offline,CS,2026-09-12,2026-09-12,Karmilla Susilawati
+i. September,OFF,12-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:00:00,Offline,CS,2026-09-12,2026-09-12,Nandita Khairunnisa
+i. September,S1,12-Sep-2026,CX,Grup C,Panca Rani Sakti,0:08:12,Online,CS,2026-09-12,2026-09-12,Panca Rani Sakti
+i. September,S1,12-Sep-2026,CX,Grup C,Puspita Wulandari,0:24:39,Online,CS,2026-09-12,2026-09-12,Puspita Wulandari
+i. September,S2,12-Sep-2026,CX,Grup A,Reniana Elya Azizatur Rojiyah,0:03:20,Online,CS,2026-09-12,2026-09-12,Reniana Elya Azizatur Rojiyah
+i. September,S1,12-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:13:19,Online,CS,2026-09-12,2026-09-12,Rihana Aulia Nafita
+i. September,S3,13-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:04:45,Online,ACQUI,2026-09-13,2026-09-13,Bella Deviana Dwi Prastiwi
+i. September,S1,13-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,0:19:28,Online,ACQUI,2026-09-13,2026-09-13,Dian Putri Saraswati
+i. September,S2,13-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,0:16:45,Online,ACQUI,2026-09-13,2026-09-13,Diaz Ahmad Fahrizal
+i. September,S3,13-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:02:28,Online,ACQUI,2026-09-13,2026-09-13,Fany Achmad Raihan
+i. September,S2,13-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:03:54,Online,ACQUI,2026-09-13,2026-09-13,Jacinta Aura Ramadhani
+i. September,S3,13-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:02:14,Online,ACQUI,2026-09-13,2026-09-13,Muhamad Zidan Adha
+i. September,S1,13-Sep-2026,Acqui,Grup A,Muhamad Dzikri Ahsani Hermawan,0:19:51,Online,ACQUI,2026-09-13,2026-09-13,Muhamad Dzikri Ahsani Hermawan
+i. September,S1,13-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:06:06,Online,ACQUI,2026-09-13,2026-09-13,Nidaan Khafiyya Yusbar
+i. September,S3,13-Sep-2026,Acqui,Grup A,Tari Devianti,0:04:33,Online,ACQUI,2026-09-13,2026-09-13,Tari Devianti
+i. September,S3,13-Sep-2026,Acqui,Grup A,Alfattiya Putri Bennika,0:05:48,Online,ACQUI,2026-09-13,2026-09-13,Alfattiya Putri Bennika
+i. September,S1,13-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:19:50,Online,ACQUI,2026-09-13,2026-09-13,Amaliah Bakti
+i. September,S2,13-Sep-2026,Acqui,Grup B,Ana Fitriani,0:18:16,Online,ACQUI,2026-09-13,2026-09-13,Ana Fitriani
+i. September,S2,13-Sep-2026,Acqui,Grup A,Bagas Adjie Dewanto,0:12:10,Online,ACQUI,2026-09-13,2026-09-13,Bagas Adjie Dewanto
+i. September,S1,13-Sep-2026,Acqui,Grup A,Fathya Aufa Lidinillah,0:18:32,Online,ACQUI,2026-09-13,2026-09-13,Fathya Aufa Lidinillah
+i. September,S2,13-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:10:31,Online,ACQUI,2026-09-13,2026-09-13,Hanifah Iftinan Saputri
+i. September,S1,13-Sep-2026,Acqui,Grup B,Kamila Faradila,0:14:46,Online,ACQUI,2026-09-13,2026-09-13,Kamila Faradila
+i. September,S1,13-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,0:16:12,Online,ACQUI,2026-09-13,2026-09-13,Salwa Rahmadiyanti
+i. September,S1,13-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:14:12,Online,ACQUI,2026-09-13,2026-09-13,Achmad Fara Gautama
+i. September,S3,13-Sep-2026,Acqui,Grup C,Ananda Syafira,0:07:29,Online,ACQUI,2026-09-13,2026-09-13,Ananda Syafira
+i. September,S1,13-Sep-2026,Acqui,Grup B,Annya Anugrahaning,0:12:39,Online,ACQUI,2026-09-13,2026-09-13,Annya Anugrahaning
+i. September,S1,13-Sep-2026,Acqui,Grup B,Feliksia Astridaphira Tramaharani,0:32:49,Online,ACQUI,2026-09-13,2026-09-13,Feliksia Astridaphira Tramaharani
+i. September,S1,13-Sep-2026,Acqui,Grup B,Muhammad Urwah,0:13:57,Online,ACQUI,2026-09-13,2026-09-13,Muhammad Urwah
+i. September,S1,13-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:18:05,Online,ACQUI,2026-09-13,2026-09-13,Shavira Devi Shaliha
+i. September,S1,13-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:10:16,Online,ACQUI,2026-09-13,2026-09-13,Thia Amelia Butar Butar
+i. September,S1,13-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,0:09:44,Online,CS,2026-09-13,2026-09-13,Dewi Lailatul Badriyah
+i. September,S1,13-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:22:53,Online,CS,2026-09-13,2026-09-13,Inayah Rohmaniyah
+i. September,S2,13-Sep-2026,CX,Grup B,Meiza Muhammad Rizqi,0:06:54,Online,CS,2026-09-13,2026-09-13,Meiza Muhammad Rizqi
+i. September,S3,13-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:27:01,Online,CS,2026-09-13,2026-09-13,Nadzira Inayah Muthmainah
+i. September,OFF,13-Sep-2026,CX,Grup A,Seno Ajianto,0:00:00,Offline,CS,2026-09-13,2026-09-13,Seno Ajianto
+i. September,S3,13-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:07:08,Online,CS,2026-09-13,2026-09-13,Verrina Amira Harjo
+i. September,S1,13-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:11:19,Online,CS,2026-09-13,2026-09-13,Afifah Nur khasanah
+i. September,S2,13-Sep-2026,CX,Grup C,Anisya Ananda Putri,0:10:59,Online,CS,2026-09-13,2026-09-13,Anisya Ananda Putri
+i. September,S3,13-Sep-2026,CX,Grup B,Caroline Elsa Manuhua,0:04:55,Online,CS,2026-09-13,2026-09-13,Caroline Elsa Manuhua
+i. September,S2,13-Sep-2026,CX,Grup A,Citra Risi Khaironissa,0:05:14,Online,CS,2026-09-13,2026-09-13,Citra Risi Khaironissa
+i. September,S2,13-Sep-2026,CX,Grup C,Muhammad Hairul Nizam,0:12:28,Online,CS,2026-09-13,2026-09-13,Muhammad Hairul Nizam
+i. September,S1,13-Sep-2026,CX,Grup A,Muthiah Hanif Salsabilla,0:10:16,Online,CS,2026-09-13,2026-09-13,Muthiah Hanif Salsabilla
+i. September,S1,13-Sep-2026,CX,Grup A,Nurul Nisa,0:05:48,Online,CS,2026-09-13,2026-09-13,Nurul Nisa
+i. September,S1,13-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:04:22,Online,CS,2026-09-13,2026-09-13,Rahma Choirul Jannah Rahayu
+i. September,S3,13-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:08:09,Online,CS,2026-09-13,2026-09-13,Anisa Diah Roselawati
+i. September,S1,13-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:10:43,Online,CS,2026-09-13,2026-09-13,Arum Savitri Chairunisa
+i. September,S1,13-Sep-2026,CX,Grup B,Hanifah Rahmifisina Nirmalasari,0:05:10,Online,CS,2026-09-13,2026-09-13,Hanifah Rahmifisina Nirmalasari
+i. September,S3,13-Sep-2026,CX,Grup C,Karmilla Susilawati,0:03:25,Online,CS,2026-09-13,2026-09-13,Karmilla Susilawati
+i. September,S3,13-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:05:55,Online,CS,2026-09-13,2026-09-13,Nandita Khairunnisa
+i. September,S2,13-Sep-2026,CX,Grup C,Panca Rani Sakti,0:04:08,Online,CS,2026-09-13,2026-09-13,Panca Rani Sakti
+i. September,S1,13-Sep-2026,CX,Grup C,Puspita Wulandari,0:24:53,Online,CS,2026-09-13,2026-09-13,Puspita Wulandari
+i. September,OFF,13-Sep-2026,CX,Grup A,Reniana Elya Azizatur Rojiyah,0:00:00,Offline,CS,2026-09-13,2026-09-13,Reniana Elya Azizatur Rojiyah
+i. September,S1,13-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:12:37,Online,CS,2026-09-13,2026-09-13,Rihana Aulia Nafita
+i. September,OFF,14-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:25:26,Offline,ACQUI,2026-09-14,2026-09-14,Bella Deviana Dwi Prastiwi
+i. September,S1,14-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,0:30:01,Online,ACQUI,2026-09-14,2026-09-14,Dian Putri Saraswati
+i. September,S1,14-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,0:42:06,Online,ACQUI,2026-09-14,2026-09-14,Diaz Ahmad Fahrizal
+i. September,S2,14-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:04:38,Online,ACQUI,2026-09-14,2026-09-14,Fany Achmad Raihan
+i. September,S1,14-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:06:25,Online,ACQUI,2026-09-14,2026-09-14,Jacinta Aura Ramadhani
+i. September,S2,14-Sep-2026,Acqui,Grup A,Jufrizal Jufrizal,0:04:24,Online,ACQUI,2026-09-14,2026-09-14,Jufrizal Jufrizal
+i. September,S2,14-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:04:17,Online,ACQUI,2026-09-14,2026-09-14,Muhamad Zidan Adha
+i. September,S1,14-Sep-2026,Acqui,Grup A,Muhamad Dzikri Ahsani Hermawan,0:56:29,Online,ACQUI,2026-09-14,2026-09-14,Muhamad Dzikri Ahsani Hermawan
+i. September,S3,14-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:07:17,Online,ACQUI,2026-09-14,2026-09-14,Nidaan Khafiyya Yusbar
+i. September,S2,14-Sep-2026,Acqui,Grup A,Tari Devianti,0:04:55,Online,ACQUI,2026-09-14,2026-09-14,Tari Devianti
+i. September,S2,14-Sep-2026,Acqui,Grup A,Alfattiya Putri Bennika,0:06:42,Online,ACQUI,2026-09-14,2026-09-14,Alfattiya Putri Bennika
+i. September,S3,14-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:04:28,Online,ACQUI,2026-09-14,2026-09-14,Amaliah Bakti
+i. September,S1,14-Sep-2026,Acqui,Grup A,Bagas Adjie Dewanto,0:33:00,Online,ACQUI,2026-09-14,2026-09-14,Bagas Adjie Dewanto
+i. September,S1,14-Sep-2026,Acqui,Grup A,Fathya Aufa Lidinillah,0:18:39,Online,ACQUI,2026-09-14,2026-09-14,Fathya Aufa Lidinillah
+i. September,S1,14-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:25:17,Online,ACQUI,2026-09-14,2026-09-14,Hanifah Iftinan Saputri
+i. September,S3,14-Sep-2026,Acqui,Grup B,Kamila Faradila,0:05:31,Online,ACQUI,2026-09-14,2026-09-14,Kamila Faradila
+i. September,OFF,14-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,1:54:44,Offline,ACQUI,2026-09-14,2026-09-14,Salwa Rahmadiyanti
+i. September,S3,14-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:10:13,Online,ACQUI,2026-09-14,2026-09-14,Achmad Fara Gautama
+i. September,S2,14-Sep-2026,Acqui,Grup C,Ananda Syafira,0:07:30,Online,ACQUI,2026-09-14,2026-09-14,Ananda Syafira
+i. September,S1,14-Sep-2026,Acqui,Grup B,Annya Anugrahaning,0:25:32,Online,ACQUI,2026-09-14,2026-09-14,Annya Anugrahaning
+i. September,S1,14-Sep-2026,Acqui,Grup B,Feliksia Astridaphira Tramaharani,0:22:09,Online,ACQUI,2026-09-14,2026-09-14,Feliksia Astridaphira Tramaharani
+i. September,OFF,14-Sep-2026,Acqui,Grup B,Muhammad Urwah,0:03:39,Offline,ACQUI,2026-09-14,2026-09-14,Muhammad Urwah
+i. September,S1,14-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:15:25,Online,ACQUI,2026-09-14,2026-09-14,Shavira Devi Shaliha
+i. September,S3,14-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:08:04,Online,ACQUI,2026-09-14,2026-09-14,Thia Amelia Butar Butar
+i. September,S3,14-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,0:10:27,Online,CS,2026-09-14,2026-09-14,Dewi Lailatul Badriyah
+i. September,S3,14-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:13:26,Online,CS,2026-09-14,2026-09-14,Inayah Rohmaniyah
+i. September,S1,14-Sep-2026,CX,Grup B,Meiza Muhammad Rizqi,0:12:27,Online,CS,2026-09-14,2026-09-14,Meiza Muhammad Rizqi
+i. September,S2,14-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:19:31,Online,CS,2026-09-14,2026-09-14,Nadzira Inayah Muthmainah
+i. September,OFF,14-Sep-2026,CX,Grup A,Seno Ajianto,0:00:00,Offline,CS,2026-09-14,2026-09-14,Seno Ajianto
+i. September,S2,14-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:09:35,Online,CS,2026-09-14,2026-09-14,Verrina Amira Harjo
+i. September,S1,14-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:16:56,Online,CS,2026-09-14,2026-09-14,Afifah Nur khasanah
+i. September,S1,14-Sep-2026,CX,Grup C,Anisya Ananda Putri,0:23:03,Online,CS,2026-09-14,2026-09-14,Anisya Ananda Putri
+i. September,S3,14-Sep-2026,CX,Grup B,Caroline Elsa Manuhua,0:13:39,Online,CS,2026-09-14,2026-09-14,Caroline Elsa Manuhua
+i. September,S3,14-Sep-2026,CX,Grup A,Citra Risi Khaironissa,0:08:57,Online,CS,2026-09-14,2026-09-14,Citra Risi Khaironissa
+i. September,S1,14-Sep-2026,CX,Grup C,Muhammad Hairul Nizam,0:21:48,Online,CS,2026-09-14,2026-09-14,Muhammad Hairul Nizam
+i. September,S1,14-Sep-2026,CX,Grup A,Muthiah Hanif Salsabilla,0:12:09,Online,CS,2026-09-14,2026-09-14,Muthiah Hanif Salsabilla
+i. September,S1,14-Sep-2026,CX,Grup A,Nurul Nisa,0:07:36,Online,CS,2026-09-14,2026-09-14,Nurul Nisa
+i. September,S1,14-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:03:52,Online,CS,2026-09-14,2026-09-14,Rahma Choirul Jannah Rahayu
+i. September,OFF,14-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:00:00,Offline,CS,2026-09-14,2026-09-14,Anisa Diah Roselawati
+i. September,S1,14-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:10:32,Online,CS,2026-09-14,2026-09-14,Arum Savitri Chairunisa
+i. September,S1,14-Sep-2026,CX,Grup B,Hanifah Rahmifisina Nirmalasari,0:07:11,Online,CS,2026-09-14,2026-09-14,Hanifah Rahmifisina Nirmalasari
+i. September,S2,14-Sep-2026,CX,Grup C,Karmilla Susilawati,0:06:00,Online,CS,2026-09-14,2026-09-14,Karmilla Susilawati
+i. September,S2,14-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:06:18,Online,CS,2026-09-14,2026-09-14,Nandita Khairunnisa
+i. September,S1,14-Sep-2026,CX,Grup C,Panca Rani Sakti,0:06:18,Online,CS,2026-09-14,2026-09-14,Panca Rani Sakti
+i. September,S1,14-Sep-2026,CX,Grup C,Puspita Wulandari,0:09:47,Online,CS,2026-09-14,2026-09-14,Puspita Wulandari
+i. September,S2,14-Sep-2026,CX,Grup A,Reniana Elya Azizatur Rojiyah,0:05:39,Online,CS,2026-09-14,2026-09-14,Reniana Elya Azizatur Rojiyah
+i. September,S3,14-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:13:07,Online,CS,2026-09-14,2026-09-14,Rihana Aulia Nafita
+i. September,S1,15-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:04:43,Online,ACQUI,2026-09-15,2026-09-15,Bella Deviana Dwi Prastiwi
+i. September,OFF,15-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,0:00:00,Offline,ACQUI,2026-09-15,2026-09-15,Dian Putri Saraswati
+i. September,S1,15-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,0:47:13,Online,ACQUI,2026-09-15,2026-09-15,Diaz Ahmad Fahrizal
+i. September,S1,15-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:21:34,Online,ACQUI,2026-09-15,2026-09-15,Fany Achmad Raihan
+i. September,S1,15-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:27:36,Online,ACQUI,2026-09-15,2026-09-15,Jacinta Aura Ramadhani
+i. September,S2,15-Sep-2026,Acqui,Grup A,Jufrizal Jufrizal,0:05:32,Online,ACQUI,2026-09-15,2026-09-15,Jufrizal Jufrizal
+i. September,S1,15-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:07:41,Online,ACQUI,2026-09-15,2026-09-15,Muhamad Zidan Adha
+i. September,S3,15-Sep-2026,Acqui,Grup A,Muhamad Dzikri Ahsani Hermawan,0:21:07,Online,ACQUI,2026-09-15,2026-09-15,Muhamad Dzikri Ahsani Hermawan
+i. September,S2,15-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:04:46,Online,ACQUI,2026-09-15,2026-09-15,Nidaan Khafiyya Yusbar
+i. September,OFF,15-Sep-2026,Acqui,Grup A,Tari Devianti,0:29:13,Offline,ACQUI,2026-09-15,2026-09-15,Tari Devianti
+i. September,S1,15-Sep-2026,Acqui,Grup A,Alfattiya Putri Bennika,0:22:53,Online,ACQUI,2026-09-15,2026-09-15,Alfattiya Putri Bennika
+i. September,S2,15-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:05:21,Online,ACQUI,2026-09-15,2026-09-15,Amaliah Bakti
+i. September,S1,15-Sep-2026,Acqui,Grup A,Bagas Adjie Dewanto,0:43:43,Online,ACQUI,2026-09-15,2026-09-15,Bagas Adjie Dewanto
+i. September,S3,15-Sep-2026,Acqui,Grup A,Fathya Aufa Lidinillah,0:07:55,Online,ACQUI,2026-09-15,2026-09-15,Fathya Aufa Lidinillah
+i. September,OFF,15-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:25:11,Offline,ACQUI,2026-09-15,2026-09-15,Hanifah Iftinan Saputri
+i. September,S2,15-Sep-2026,Acqui,Grup B,Kamila Faradila,0:06:06,Online,ACQUI,2026-09-15,2026-09-15,Kamila Faradila
+i. September,OFF,15-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,0:15:13,Offline,ACQUI,2026-09-15,2026-09-15,Salwa Rahmadiyanti
+i. September,S2,15-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:12:31,Online,ACQUI,2026-09-15,2026-09-15,Achmad Fara Gautama
+i. September,S1,15-Sep-2026,Acqui,Grup C,Ananda Syafira,0:26:01,Online,ACQUI,2026-09-15,2026-09-15,Ananda Syafira
+i. September,S1,15-Sep-2026,Acqui,Grup B,Annya Anugrahaning,0:33:42,Online,ACQUI,2026-09-15,2026-09-15,Annya Anugrahaning
+i. September,S3,15-Sep-2026,Acqui,Grup B,Feliksia Astridaphira Tramaharani,0:03:14,Online,ACQUI,2026-09-15,2026-09-15,Feliksia Astridaphira Tramaharani
+i. September,OFF,15-Sep-2026,Acqui,Grup B,Muhammad Urwah,0:01:12,Offline,ACQUI,2026-09-15,2026-09-15,Muhammad Urwah
+i. September,S3,15-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:08:50,Online,ACQUI,2026-09-15,2026-09-15,Shavira Devi Shaliha
+i. September,S2,15-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:09:40,Online,ACQUI,2026-09-15,2026-09-15,Thia Amelia Butar Butar
+i. September,S3,15-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,0:07:43,Online,CS,2026-09-15,2026-09-15,Dewi Lailatul Badriyah
+i. September,S2,15-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:11:49,Online,CS,2026-09-15,2026-09-15,Inayah Rohmaniyah
+i. September,S1,15-Sep-2026,CX,Grup B,Meiza Muhammad Rizqi,0:26:12,Online,CS,2026-09-15,2026-09-15,Meiza Muhammad Rizqi
+i. September,OFF,15-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:52:39,Offline,CS,2026-09-15,2026-09-15,Nadzira Inayah Muthmainah
+i. September,S1,15-Sep-2026,CX,Grup A,Seno Ajianto,0:18:17,Online,CS,2026-09-15,2026-09-15,Seno Ajianto
+i. September,S1,15-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:12:23,Online,CS,2026-09-15,2026-09-15,Verrina Amira Harjo
+i. September,S1,15-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:10:56,Online,CS,2026-09-15,2026-09-15,Afifah Nur khasanah
+i. September,S2,15-Sep-2026,CX,Grup C,Anisya Ananda Putri,0:12:13,Online,CS,2026-09-15,2026-09-15,Anisya Ananda Putri
+i. September,OFF,15-Sep-2026,CX,Grup B,Caroline Elsa Manuhua,0:05:01,Offline,CS,2026-09-15,2026-09-15,Caroline Elsa Manuhua
+i. September,S3,15-Sep-2026,CX,Grup A,Citra Risi Khaironissa,0:13:31,Online,CS,2026-09-15,2026-09-15,Citra Risi Khaironissa
+i. September,OFF,15-Sep-2026,CX,Grup C,Muhammad Hairul Nizam,0:00:00,Offline,CS,2026-09-15,2026-09-15,Muhammad Hairul Nizam
+i. September,S3,15-Sep-2026,CX,Grup A,Muthiah Hanif Salsabilla,0:07:48,Online,CS,2026-09-15,2026-09-15,Muthiah Hanif Salsabilla
+i. September,S1,15-Sep-2026,CX,Grup A,Nurul Nisa,0:06:27,Online,CS,2026-09-15,2026-09-15,Nurul Nisa
+i. September,S1,15-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:08:29,Online,CS,2026-09-15,2026-09-15,Rahma Choirul Jannah Rahayu
+i. September,OFF,15-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:00:00,Offline,CS,2026-09-15,2026-09-15,Anisa Diah Roselawati
+i. September,S1,15-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:12:58,Online,CS,2026-09-15,2026-09-15,Arum Savitri Chairunisa
+i. September,S2,15-Sep-2026,CX,Grup B,Hanifah Rahmifisina Nirmalasari,0:03:51,Online,CS,2026-09-15,2026-09-15,Hanifah Rahmifisina Nirmalasari
+i. September,S1,15-Sep-2026,CX,Grup C,Karmilla Susilawati,0:12:51,Online,CS,2026-09-15,2026-09-15,Karmilla Susilawati
+i. September,S1,15-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:14:07,Online,CS,2026-09-15,2026-09-15,Nandita Khairunnisa
+i. September,S3,15-Sep-2026,CX,Grup C,Panca Rani Sakti,0:04:37,Online,CS,2026-09-15,2026-09-15,Panca Rani Sakti
+i. September,S3,15-Sep-2026,CX,Grup C,Puspita Wulandari,0:16:14,Online,CS,2026-09-15,2026-09-15,Puspita Wulandari
+i. September,S1,15-Sep-2026,CX,Grup A,Reniana Elya Azizatur Rojiyah,0:10:29,Online,CS,2026-09-15,2026-09-15,Reniana Elya Azizatur Rojiyah
+i. September,OFF,15-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:23:16,Offline,CS,2026-09-15,2026-09-15,Rihana Aulia Nafita
+i. September,S1,16-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:21:36,Online,ACQUI,2026-09-16,2026-09-16,Bella Deviana Dwi Prastiwi
+i. September,S3,16-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,0:06:02,Online,ACQUI,2026-09-16,2026-09-16,Dian Putri Saraswati
+i. September,S3,16-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,0:07:00,Online,ACQUI,2026-09-16,2026-09-16,Diaz Ahmad Fahrizal
+i. September,S1,16-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:23:16,Online,ACQUI,2026-09-16,2026-09-16,Fany Achmad Raihan
+i. September,OFF,16-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:09:11,Offline,ACQUI,2026-09-16,2026-09-16,Jacinta Aura Ramadhani
+i. September,S2,16-Sep-2026,Acqui,Grup A,Jufrizal Jufrizal,0:05:33,Online,ACQUI,2026-09-16,2026-09-16,Jufrizal Jufrizal
+i. September,OFF,16-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:14:24,Offline,ACQUI,2026-09-16,2026-09-16,Muhamad Zidan Adha
+i. September,S2,16-Sep-2026,Acqui,Grup A,Muhamad Dzikri Ahsani Hermawan,0:07:23,Online,ACQUI,2026-09-16,2026-09-16,Muhamad Dzikri Ahsani Hermawan
+i. September,S1,16-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:12:55,Online,ACQUI,2026-09-16,2026-09-16,Nidaan Khafiyya Yusbar
+i. September,OFF,16-Sep-2026,Acqui,Grup A,Tari Devianti,0:00:00,Offline,ACQUI,2026-09-16,2026-09-16,Tari Devianti
+i. September,S2,16-Sep-2026,Acqui,Grup A,Shafa Maisa Zahra,0:08:58,Online,ACQUI,2026-09-16,2026-09-16,Shafa Maisa Zahra
+i. September,OFF,16-Sep-2026,Acqui,Grup A,Alfattiya Putri Bennika,0:04:10,Offline,ACQUI,2026-09-16,2026-09-16,Alfattiya Putri Bennika
+i. September,S1,16-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:36:45,Online,ACQUI,2026-09-16,2026-09-16,Amaliah Bakti
+i. September,S1,16-Sep-2026,Acqui,Grup A,Bagas Adjie Dewanto,0:48:37,Online,ACQUI,2026-09-16,2026-09-16,Bagas Adjie Dewanto
+i. September,S2,16-Sep-2026,Acqui,Grup A,Fathya Aufa Lidinillah,0:10:39,Online,ACQUI,2026-09-16,2026-09-16,Fathya Aufa Lidinillah
+i. September,OFF,16-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:31:45,Offline,ACQUI,2026-09-16,2026-09-16,Hanifah Iftinan Saputri
+i. September,S1,16-Sep-2026,Acqui,Grup B,Kamila Faradila,0:25:59,Online,ACQUI,2026-09-16,2026-09-16,Kamila Faradila
+i. September,S3,16-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,1:31:59,Online,ACQUI,2026-09-16,2026-09-16,Salwa Rahmadiyanti
+i. September,S1,16-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:14:28,Online,ACQUI,2026-09-16,2026-09-16,Achmad Fara Gautama
+i. September,OFF,16-Sep-2026,Acqui,Grup C,Ananda Syafira,0:00:00,Offline,ACQUI,2026-09-16,2026-09-16,Ananda Syafira
+i. September,OFF,16-Sep-2026,Acqui,Grup B,Annya Anugrahaning,0:00:00,Offline,ACQUI,2026-09-16,2026-09-16,Annya Anugrahaning
+i. September,S2,16-Sep-2026,Acqui,Grup B,Feliksia Astridaphira Tramaharani,0:06:26,Online,ACQUI,2026-09-16,2026-09-16,Feliksia Astridaphira Tramaharani
+i. September,S3,16-Sep-2026,Acqui,Grup B,Muhammad Urwah,0:02:36,Online,ACQUI,2026-09-16,2026-09-16,Muhammad Urwah
+i. September,S2,16-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:09:25,Online,ACQUI,2026-09-16,2026-09-16,Shavira Devi Shaliha
+i. September,S1,16-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:29:53,Online,ACQUI,2026-09-16,2026-09-16,Thia Amelia Butar Butar
+i. September,OFF,16-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,0:08:20,Offline,CS,2026-09-16,2026-09-16,Dewi Lailatul Badriyah
+i. September,S1,16-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:08:50,Online,CS,2026-09-16,2026-09-16,Inayah Rohmaniyah
+i. September,S1,16-Sep-2026,CX,Grup B,Meiza Muhammad Rizqi,0:29:57,Online,CS,2026-09-16,2026-09-16,Meiza Muhammad Rizqi
+i. September,OFF,16-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:00:00,Offline,CS,2026-09-16,2026-09-16,Nadzira Inayah Muthmainah
+i. September,S2,16-Sep-2026,CX,Grup A,Seno Ajianto,0:11:19,Online,CS,2026-09-16,2026-09-16,Seno Ajianto
+i. September,S3,16-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:09:22,Online,CS,2026-09-16,2026-09-16,Verrina Amira Harjo
+i. September,S3,16-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:05:48,Online,CS,2026-09-16,2026-09-16,Afifah Nur khasanah
+i. September,S1,16-Sep-2026,CX,Grup C,Anisya Ananda Putri,0:33:20,Online,CS,2026-09-16,2026-09-16,Anisya Ananda Putri
+i. September,S1,16-Sep-2026,CX,Grup B,Caroline Elsa Manuhua,0:09:26,Online,CS,2026-09-16,2026-09-16,Caroline Elsa Manuhua
+i. September,OFF,16-Sep-2026,CX,Grup A,Citra Risi Khaironissa,0:29:27,Offline,CS,2026-09-16,2026-09-16,Citra Risi Khaironissa
+i. September,S3,16-Sep-2026,CX,Grup C,Muhammad Hairul Nizam,0:14:23,Online,CS,2026-09-16,2026-09-16,Muhammad Hairul Nizam
+i. September,OFF,16-Sep-2026,CX,Grup A,Muthiah Hanif Salsabilla,0:00:00,Offline,CS,2026-09-16,2026-09-16,Muthiah Hanif Salsabilla
+i. September,S1,16-Sep-2026,CX,Grup A,Nurul Nisa,0:08:36,Online,CS,2026-09-16,2026-09-16,Nurul Nisa
+i. September,S3,16-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:03:58,Online,CS,2026-09-16,2026-09-16,Rahma Choirul Jannah Rahayu
+i. September,S2,16-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:09:59,Online,CS,2026-09-16,2026-09-16,Anisa Diah Roselawati
+i. September,S2,16-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:08:13,Online,CS,2026-09-16,2026-09-16,Arum Savitri Chairunisa
+i. September,S3,16-Sep-2026,CX,Grup B,Hanifah Rahmifisina Nirmalasari,0:10:11,Online,CS,2026-09-16,2026-09-16,Hanifah Rahmifisina Nirmalasari
+i. September,S1,16-Sep-2026,CX,Grup C,Karmilla Susilawati,0:15:15,Online,CS,2026-09-16,2026-09-16,Karmilla Susilawati
+i. September,S1,16-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:12:30,Online,CS,2026-09-16,2026-09-16,Nandita Khairunnisa
+i. September,OFF,16-Sep-2026,CX,Grup C,Panca Rani Sakti,0:00:00,Offline,CS,2026-09-16,2026-09-16,Panca Rani Sakti
+i. September,OFF,16-Sep-2026,CX,Grup C,Puspita Wulandari,0:00:00,Offline,CS,2026-09-16,2026-09-16,Puspita Wulandari
+i. September,S1,16-Sep-2026,CX,Grup A,Reniana Elya Azizatur Rojiyah,0:08:57,Online,CS,2026-09-16,2026-09-16,Reniana Elya Azizatur Rojiyah
+i. September,S1,16-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:11:50,Online,CS,2026-09-16,2026-09-16,Rihana Aulia Nafita
+i. September,S1,17-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:16:11,Online,ACQUI,2026-09-17,2026-09-17,Bella Deviana Dwi Prastiwi
+i. September,S2,17-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,0:09:35,Online,ACQUI,2026-09-17,2026-09-17,Dian Putri Saraswati
+i. September,S2,17-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,0:10:15,Online,ACQUI,2026-09-17,2026-09-17,Diaz Ahmad Fahrizal
+i. September,S3,17-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:01:15,Online,ACQUI,2026-09-17,2026-09-17,Fany Achmad Raihan
+i. September,S1,17-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:11:31,Online,ACQUI,2026-09-17,2026-09-17,Jacinta Aura Ramadhani
+i. September,S2,17-Sep-2026,Acqui,Grup A,Jufrizal Jufrizal,0:05:58,Online,ACQUI,2026-09-17,2026-09-17,Jufrizal Jufrizal
+i. September,S3,17-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:02:42,Online,ACQUI,2026-09-17,2026-09-17,Muhamad Zidan Adha
+i. September,S1,17-Sep-2026,Acqui,Grup A,Muhamad Dzikri Ahsani Hermawan,0:27:14,Online,ACQUI,2026-09-17,2026-09-17,Muhamad Dzikri Ahsani Hermawan
+i. September,S1,17-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:08:43,Online,ACQUI,2026-09-17,2026-09-17,Nidaan Khafiyya Yusbar
+i. September,OFF,17-Sep-2026,Acqui,Grup A,Tari Devianti,0:00:00,Offline,ACQUI,2026-09-17,2026-09-17,Tari Devianti
+i. September,S1,17-Sep-2026,Acqui,Grup A,Shafa Maisa Zahra,0:28:21,Online,ACQUI,2026-09-17,2026-09-17,Shafa Maisa Zahra
+i. September,S1,17-Sep-2026,Acqui,Grup A,Alfattiya Putri Bennika,0:16:27,Online,ACQUI,2026-09-17,2026-09-17,Alfattiya Putri Bennika
+i. September,S1,17-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:22:05,Online,ACQUI,2026-09-17,2026-09-17,Amaliah Bakti
+i. September,OFF,17-Sep-2026,Acqui,Grup A,Bagas Adjie Dewanto,0:19:06,Offline,ACQUI,2026-09-17,2026-09-17,Bagas Adjie Dewanto
+i. September,S1,17-Sep-2026,Acqui,Grup A,Fathya Aufa Lidinillah,0:17:22,Online,ACQUI,2026-09-17,2026-09-17,Fathya Aufa Lidinillah
+i. September,S1,17-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:41:59,Online,ACQUI,2026-09-17,2026-09-17,Hanifah Iftinan Saputri
+i. September,OFF,17-Sep-2026,Acqui,Grup B,Kamila Faradila,0:11:25,Offline,ACQUI,2026-09-17,2026-09-17,Kamila Faradila
+i. September,S2,17-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,0:04:01,Online,ACQUI,2026-09-17,2026-09-17,Salwa Rahmadiyanti
+i. September,OFF,17-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:17:00,Offline,ACQUI,2026-09-17,2026-09-17,Achmad Fara Gautama
+i. September,S3,17-Sep-2026,Acqui,Grup C,Ananda Syafira,0:10:43,Online,ACQUI,2026-09-17,2026-09-17,Ananda Syafira
+i. September,S3,17-Sep-2026,Acqui,Grup B,Annya Anugrahaning,0:03:35,Online,ACQUI,2026-09-17,2026-09-17,Annya Anugrahaning
+i. September,S1,17-Sep-2026,Acqui,Grup B,Feliksia Astridaphira Tramaharani,0:12:27,Online,ACQUI,2026-09-17,2026-09-17,Feliksia Astridaphira Tramaharani
+i. September,S2,17-Sep-2026,Acqui,Grup B,Muhammad Urwah,0:04:23,Online,ACQUI,2026-09-17,2026-09-17,Muhammad Urwah
+i. September,OFF,17-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:09:34,Offline,ACQUI,2026-09-17,2026-09-17,Shavira Devi Shaliha
+i. September,S1,17-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:21:57,Online,ACQUI,2026-09-17,2026-09-17,Thia Amelia Butar Butar
+i. September,S2,17-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,0:03:13,Online,CS,2026-09-17,2026-09-17,Dewi Lailatul Badriyah
+i. September,S1,17-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:12:33,Online,CS,2026-09-17,2026-09-17,Inayah Rohmaniyah
+i. September,S3,17-Sep-2026,CX,Grup B,Meiza Muhammad Rizqi,0:08:29,Online,CS,2026-09-17,2026-09-17,Meiza Muhammad Rizqi
+i. September,OFF,17-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:00:00,Offline,CS,2026-09-17,2026-09-17,Nadzira Inayah Muthmainah
+i. September,S1,17-Sep-2026,CX,Grup A,Seno Ajianto,0:12:43,Online,CS,2026-09-17,2026-09-17,Seno Ajianto
+i. September,OFF,17-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:01:45,Offline,CS,2026-09-17,2026-09-17,Verrina Amira Harjo
+i. September,OFF,17-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:00:00,Offline,CS,2026-09-17,2026-09-17,Afifah Nur khasanah
+i. September,S1,17-Sep-2026,CX,Grup C,Anisya Ananda Putri,0:29:01,Online,CS,2026-09-17,2026-09-17,Anisya Ananda Putri
+i. September,S1,17-Sep-2026,CX,Grup B,Caroline Elsa Manuhua,0:03:50,Online,CS,2026-09-17,2026-09-17,Caroline Elsa Manuhua
+i. September,S1,17-Sep-2026,CX,Grup A,Citra Risi Khaironissa,0:08:07,Online,CS,2026-09-17,2026-09-17,Citra Risi Khaironissa
+i. September,OFF,17-Sep-2026,CX,Grup C,Muhammad Hairul Nizam,0:00:00,Offline,CS,2026-09-17,2026-09-17,Muhammad Hairul Nizam
+i. September,S1,17-Sep-2026,CX,Grup A,Muthiah Hanif Salsabilla,0:16:41,Online,CS,2026-09-17,2026-09-17,Muthiah Hanif Salsabilla
+i. September,S3,17-Sep-2026,CX,Grup A,Nurul Nisa,0:09:59,Online,CS,2026-09-17,2026-09-17,Nurul Nisa
+i. September,OFF,17-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:00:00,Offline,CS,2026-09-17,2026-09-17,Rahma Choirul Jannah Rahayu
+i. September,S1,17-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:10:09,Online,CS,2026-09-17,2026-09-17,Anisa Diah Roselawati
+i. September,S1,17-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:11:55,Online,CS,2026-09-17,2026-09-17,Arum Savitri Chairunisa
+i. September,OFF,17-Sep-2026,CX,Grup B,Hanifah Rahmifisina Nirmalasari,0:05:00,Offline,CS,2026-09-17,2026-09-17,Hanifah Rahmifisina Nirmalasari
+i. September,OFF,17-Sep-2026,CX,Grup C,Karmilla Susilawati,0:05:19,Offline,CS,2026-09-17,2026-09-17,Karmilla Susilawati
+i. September,S1,17-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:11:41,Online,CS,2026-09-17,2026-09-17,Nandita Khairunnisa
+i. September,S2,17-Sep-2026,CX,Grup C,Panca Rani Sakti,0:07:57,Online,CS,2026-09-17,2026-09-17,Panca Rani Sakti
+i. September,S2,17-Sep-2026,CX,Grup C,Puspita Wulandari,0:11:30,Online,CS,2026-09-17,2026-09-17,Puspita Wulandari
+i. September,S3,17-Sep-2026,CX,Grup A,Reniana Elya Azizatur Rojiyah,0:05:00,Online,CS,2026-09-17,2026-09-17,Reniana Elya Azizatur Rojiyah
+i. September,S1,17-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:08:11,Online,CS,2026-09-17,2026-09-17,Rihana Aulia Nafita
+i. September,S3,18-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:08:13,Online,ACQUI,2026-09-18,2026-09-18,Bella Deviana Dwi Prastiwi
+i. September,S1,18-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,0:21:08,Online,ACQUI,2026-09-18,2026-09-18,Dian Putri Saraswati
+i. September,OFF,18-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,0:00:00,Offline,ACQUI,2026-09-18,2026-09-18,Diaz Ahmad Fahrizal
+i. September,S2,18-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:10:41,Online,ACQUI,2026-09-18,2026-09-18,Fany Achmad Raihan
+i. September,S2,18-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:06:46,Online,ACQUI,2026-09-18,2026-09-18,Jacinta Aura Ramadhani
+i. September,S1,18-Sep-2026,Acqui,Grup A,Jufrizal Jufrizal,0:22:37,Online,ACQUI,2026-09-18,2026-09-18,Jufrizal Jufrizal
+i. September,OFF,18-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:00:29,Offline,ACQUI,2026-09-18,2026-09-18,Muhamad Zidan Adha
+i. September,S3,18-Sep-2026,Acqui,Grup A,Muhamad Dzikri Ahsani Hermawan,0:04:57,Online,ACQUI,2026-09-18,2026-09-18,Muhamad Dzikri Ahsani Hermawan
+i. September,S1,18-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:13:43,Online,ACQUI,2026-09-18,2026-09-18,Nidaan Khafiyya Yusbar
+i. September,S1,18-Sep-2026,Acqui,Grup A,Tari Devianti,0:30:10,Online,ACQUI,2026-09-18,2026-09-18,Tari Devianti
+i. September,S1,18-Sep-2026,Acqui,Grup A,Shafa Maisa Zahra,0:35:46,Online,ACQUI,2026-09-18,2026-09-18,Shafa Maisa Zahra
+i. September,S2,18-Sep-2026,Acqui,Grup A,Alfattiya Putri Bennika,0:02:52,Online,ACQUI,2026-09-18,2026-09-18,Alfattiya Putri Bennika
+i. September,S3,18-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:03:23,Online,ACQUI,2026-09-18,2026-09-18,Amaliah Bakti
+i. September,S3,18-Sep-2026,Acqui,Grup A,Bagas Adjie Dewanto,0:18:00,Online,ACQUI,2026-09-18,2026-09-18,Bagas Adjie Dewanto
+i. September,S3,18-Sep-2026,Acqui,Grup A,Fathya Aufa Lidinillah,0:07:36,Online,ACQUI,2026-09-18,2026-09-18,Fathya Aufa Lidinillah
+i. September,S3,18-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:18:17,Online,ACQUI,2026-09-18,2026-09-18,Hanifah Iftinan Saputri
+i. September,S1,18-Sep-2026,Acqui,Grup B,Kamila Faradila,0:32:13,Online,ACQUI,2026-09-18,2026-09-18,Kamila Faradila
+i. September,S1,18-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,0:27:18,Online,ACQUI,2026-09-18,2026-09-18,Salwa Rahmadiyanti
+i. September,OFF,18-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:12:39,Offline,ACQUI,2026-09-18,2026-09-18,Achmad Fara Gautama
+i. September,S2,18-Sep-2026,Acqui,Grup C,Ananda Syafira,0:11:59,Online,ACQUI,2026-09-18,2026-09-18,Ananda Syafira
+i. September,S2,18-Sep-2026,Acqui,Grup B,Annya Anugrahaning,0:04:24,Online,ACQUI,2026-09-18,2026-09-18,Annya Anugrahaning
+i. September,S1,18-Sep-2026,Acqui,Grup B,Feliksia Astridaphira Tramaharani,0:29:24,Online,ACQUI,2026-09-18,2026-09-18,Feliksia Astridaphira Tramaharani
+i. September,S1,18-Sep-2026,Acqui,Grup B,Muhammad Urwah,0:19:43,Online,ACQUI,2026-09-18,2026-09-18,Muhammad Urwah
+i. September,OFF,18-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:16:15,Offline,ACQUI,2026-09-18,2026-09-18,Shavira Devi Shaliha
+i. September,OFF,18-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:06:52,Offline,ACQUI,2026-09-18,2026-09-18,Thia Amelia Butar Butar
+i. September,S1,18-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,0:06:33,Online,CS,2026-09-18,2026-09-18,Dewi Lailatul Badriyah
+i. September,S1,18-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:13:54,Online,CS,2026-09-18,2026-09-18,Inayah Rohmaniyah
+i. September,OFF,18-Sep-2026,CX,Grup B,Meiza Muhammad Rizqi,0:00:00,Offline,CS,2026-09-18,2026-09-18,Meiza Muhammad Rizqi
+i. September,S2,18-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:17:28,Online,CS,2026-09-18,2026-09-18,Nadzira Inayah Muthmainah
+i. September,S1,18-Sep-2026,CX,Grup A,Ois Kholisoh ,0:06:10,Online,CS,2026-09-18,2026-09-18,Ois Kholisoh
+i. September,S1,18-Sep-2026,CX,Grup A,Revina Intan Pramesti ,0:11:26,Online,CS,2026-09-18,2026-09-18,Revina Intan Pramesti
+i. September,S3,18-Sep-2026,CX,Grup A,Seno Ajianto,0:12:01,Online,CS,2026-09-18,2026-09-18,Seno Ajianto
+i. September,S3,18-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:04:46,Online,CS,2026-09-18,2026-09-18,Verrina Amira Harjo
+i. September,S2,18-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:03:55,Online,CS,2026-09-18,2026-09-18,Afifah Nur khasanah
+i. September,S3,18-Sep-2026,CX,Grup C,Anisya Ananda Putri,0:15:55,Online,CS,2026-09-18,2026-09-18,Anisya Ananda Putri
+i. September,S1,18-Sep-2026,CX,Grup B,Caroline Elsa Manuhua,0:09:34,Online,CS,2026-09-18,2026-09-18,Caroline Elsa Manuhua
+i. September,S1,18-Sep-2026,CX,Grup A,Citra Risi Khaironissa,0:11:47,Online,CS,2026-09-18,2026-09-18,Citra Risi Khaironissa
+i. September,S1,18-Sep-2026,CX,Grup C,Muhammad Hairul Nizam,0:21:05,Online,CS,2026-09-18,2026-09-18,Muhammad Hairul Nizam
+i. September,S1,18-Sep-2026,CX,Grup A,Muthiah Hanif Salsabilla,0:12:08,Online,CS,2026-09-18,2026-09-18,Muthiah Hanif Salsabilla
+i. September,OFF,18-Sep-2026,CX,Grup A,Nurul Nisa,0:00:00,Offline,CS,2026-09-18,2026-09-18,Nurul Nisa
+i. September,S2,18-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:02:58,Online,CS,2026-09-18,2026-09-18,Rahma Choirul Jannah Rahayu
+i. September,S1,18-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:12:34,Online,CS,2026-09-18,2026-09-18,Anisa Diah Roselawati
+i. September,S3,18-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:05:23,Online,CS,2026-09-18,2026-09-18,Arum Savitri Chairunisa
+i. September,S1,18-Sep-2026,CX,Grup B,Hanifah Rahmifisina Nirmalasari,0:03:23,Online,CS,2026-09-18,2026-09-18,Hanifah Rahmifisina Nirmalasari
+i. September,S1,18-Sep-2026,CX,Grup C,Karmilla Susilawati,0:06:11,Online,CS,2026-09-18,2026-09-18,Karmilla Susilawati
+i. September,S3,18-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:12:52,Online,CS,2026-09-18,2026-09-18,Nandita Khairunnisa
+i. September,S1,18-Sep-2026,CX,Grup C,Panca Rani Sakti,0:04:05,Online,CS,2026-09-18,2026-09-18,Panca Rani Sakti
+i. September,S1,18-Sep-2026,CX,Grup C,Puspita Wulandari,0:21:00,Online,CS,2026-09-18,2026-09-18,Puspita Wulandari
+i. September,OFF,18-Sep-2026,CX,Grup A,Reniana Elya Azizatur Rojiyah,0:00:00,Offline,CS,2026-09-18,2026-09-18,Reniana Elya Azizatur Rojiyah
+i. September,S2,18-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:04:52,Online,CS,2026-09-18,2026-09-18,Rihana Aulia Nafita
+i. September,S2,19-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:07:57,Online,ACQUI,2026-09-19,2026-09-19,Bella Deviana Dwi Prastiwi
+i. September,S1,19-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,0:35:12,Online,ACQUI,2026-09-19,2026-09-19,Dian Putri Saraswati
+i. September,OFF,19-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,0:06:42,Offline,ACQUI,2026-09-19,2026-09-19,Diaz Ahmad Fahrizal
+i. September,OFF,19-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:00:00,Offline,ACQUI,2026-09-19,2026-09-19,Fany Achmad Raihan
+i. September,S1,19-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:16:24,Online,ACQUI,2026-09-19,2026-09-19,Jacinta Aura Ramadhani
+i. September,S1,19-Sep-2026,Acqui,Grup A,Jufrizal Jufrizal,0:12:49,Online,ACQUI,2026-09-19,2026-09-19,Jufrizal Jufrizal
+i. September,S3,19-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:03:11,Online,ACQUI,2026-09-19,2026-09-19,Muhamad Zidan Adha
+i. September,OFF,19-Sep-2026,Acqui,Grup A,Muhamad Dzikri Ahsani Hermawan,0:09:44,Offline,ACQUI,2026-09-19,2026-09-19,Muhamad Dzikri Ahsani Hermawan
+i. September,S1,19-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:06:04,Online,ACQUI,2026-09-19,2026-09-19,Nidaan Khafiyya Yusbar
+i. September,S1,19-Sep-2026,Acqui,Grup A,Tari Devianti,0:14:31,Online,ACQUI,2026-09-19,2026-09-19,Tari Devianti
+i. September,S2,19-Sep-2026,Acqui,Grup A,Shafa Maisa Zahra,0:04:23,Online,ACQUI,2026-09-19,2026-09-19,Shafa Maisa Zahra
+i. September,S3,19-Sep-2026,Acqui,Grup A,Alfattiya Putri Bennika,0:05:26,Online,ACQUI,2026-09-19,2026-09-19,Alfattiya Putri Bennika
+i. September,S2,19-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:09:49,Online,ACQUI,2026-09-19,2026-09-19,Amaliah Bakti
+i. September,S2,19-Sep-2026,Acqui,Grup A,Bagas Adjie Dewanto,0:09:15,Online,ACQUI,2026-09-19,2026-09-19,Bagas Adjie Dewanto
+i. September,OFF,19-Sep-2026,Acqui,Grup A,Fathya Aufa Lidinillah,1:25:04,Offline,ACQUI,2026-09-19,2026-09-19,Fathya Aufa Lidinillah
+i. September,S2,19-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:20:58,Online,ACQUI,2026-09-19,2026-09-19,Hanifah Iftinan Saputri
+i. September,S3,19-Sep-2026,Acqui,Grup B,Kamila Faradila,0:11:06,Online,ACQUI,2026-09-19,2026-09-19,Kamila Faradila
+i. September,S1,19-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,0:45:59,Online,ACQUI,2026-09-19,2026-09-19,Salwa Rahmadiyanti
+i. September,OFF,19-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:21:49,Offline,ACQUI,2026-09-19,2026-09-19,Achmad Fara Gautama
+i. September,OFF,19-Sep-2026,Acqui,Grup C,Ananda Syafira,0:09:48,Offline,ACQUI,2026-09-19,2026-09-19,Ananda Syafira
+i. September,S1,19-Sep-2026,Acqui,Grup B,Annya Anugrahaning,0:29:13,Online,ACQUI,2026-09-19,2026-09-19,Annya Anugrahaning
+i. September,S1,19-Sep-2026,Acqui,Grup B,Feliksia Astridaphira Tramaharani,0:05:29,Online,ACQUI,2026-09-19,2026-09-19,Feliksia Astridaphira Tramaharani
+i. September,OFF,19-Sep-2026,Acqui,Grup B,Muhammad Urwah,0:10:04,Offline,ACQUI,2026-09-19,2026-09-19,Muhammad Urwah
+i. September,S1,19-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:29:21,Online,ACQUI,2026-09-19,2026-09-19,Shavira Devi Shaliha
+i. September,S3,19-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:06:19,Online,ACQUI,2026-09-19,2026-09-19,Thia Amelia Butar Butar
+i. September,S1,19-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,0:12:11,Online,CS,2026-09-19,2026-09-19,Dewi Lailatul Badriyah
+i. September,S3,19-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:03:29,Online,CS,2026-09-19,2026-09-19,Inayah Rohmaniyah
+i. September,S3,19-Sep-2026,CX,Grup B,Meiza Muhammad Rizqi,0:06:06,Online,CS,2026-09-19,2026-09-19,Meiza Muhammad Rizqi
+i. September,S3,19-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:29:29,Online,CS,2026-09-19,2026-09-19,Nadzira Inayah Muthmainah
+i. September,S1,19-Sep-2026,CX,Grup A,Ois Kholisoh ,0:14:57,Online,CS,2026-09-19,2026-09-19,Ois Kholisoh
+i. September,S1,19-Sep-2026,CX,Grup A,Revina Intan Pramesti ,0:13:14,Online,CS,2026-09-19,2026-09-19,Revina Intan Pramesti
+i. September,OFF,19-Sep-2026,CX,Grup A,Seno Ajianto,0:00:00,Offline,CS,2026-09-19,2026-09-19,Seno Ajianto
+i. September,S2,19-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:05:15,Online,CS,2026-09-19,2026-09-19,Verrina Amira Harjo
+i. September,S1,19-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:07:03,Online,CS,2026-09-19,2026-09-19,Afifah Nur khasanah
+i. September,OFF,19-Sep-2026,CX,Grup C,Anisya Ananda Putri,0:00:00,Offline,CS,2026-09-19,2026-09-19,Anisya Ananda Putri
+i. September,OFF,19-Sep-2026,CX,Grup B,Caroline Elsa Manuhua,0:38:31,Offline,CS,2026-09-19,2026-09-19,Caroline Elsa Manuhua
+i. September,S2,19-Sep-2026,CX,Grup A,Citra Risi Khaironissa,0:05:31,Online,CS,2026-09-19,2026-09-19,Citra Risi Khaironissa
+i. September,S2,19-Sep-2026,CX,Grup C,Muhammad Hairul Nizam,0:11:01,Online,CS,2026-09-19,2026-09-19,Muhammad Hairul Nizam
+i. September,S1,19-Sep-2026,CX,Grup A,Muthiah Hanif Salsabilla,0:08:37,Online,CS,2026-09-19,2026-09-19,Muthiah Hanif Salsabilla
+i. September,S1,19-Sep-2026,CX,Grup A,Nurul Nisa,0:08:29,Online,CS,2026-09-19,2026-09-19,Nurul Nisa
+i. September,S1,19-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:04:41,Online,CS,2026-09-19,2026-09-19,Rahma Choirul Jannah Rahayu
+i. September,S1,19-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:05:25,Online,CS,2026-09-19,2026-09-19,Anisa Diah Roselawati
+i. September,OFF,19-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:49:12,Offline,CS,2026-09-19,2026-09-19,Arum Savitri Chairunisa
+i. September,S1,19-Sep-2026,CX,Grup B,Hanifah Rahmifisina Nirmalasari,0:06:32,Online,CS,2026-09-19,2026-09-19,Hanifah Rahmifisina Nirmalasari
+i. September,S3,19-Sep-2026,CX,Grup C,Karmilla Susilawati,0:06:41,Online,CS,2026-09-19,2026-09-19,Karmilla Susilawati
+i. September,OFF,19-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:03:29,Offline,CS,2026-09-19,2026-09-19,Nandita Khairunnisa
+i. September,S1,19-Sep-2026,CX,Grup C,Panca Rani Sakti,0:27:10,Online,CS,2026-09-19,2026-09-19,Panca Rani Sakti
+i. September,S1,19-Sep-2026,CX,Grup C,Puspita Wulandari,0:42:48,Online,CS,2026-09-19,2026-09-19,Puspita Wulandari
+i. September,S1,19-Sep-2026,CX,Grup A,Reniana Elya Azizatur Rojiyah,0:07:27,Online,CS,2026-09-19,2026-09-19,Reniana Elya Azizatur Rojiyah
+i. September,OFF,19-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:00:00,Offline,CS,2026-09-19,2026-09-19,Rihana Aulia Nafita
+i. September,S1,20-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:20:40,Online,ACQUI,2026-09-20,2026-09-20,Bella Deviana Dwi Prastiwi
+i. September,OFF,20-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,1:06:07,Offline,ACQUI,2026-09-20,2026-09-20,Dian Putri Saraswati
+i. September,S1,20-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,0:17:32,Online,ACQUI,2026-09-20,2026-09-20,Diaz Ahmad Fahrizal
+i. September,OFF,20-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:03:04,Offline,ACQUI,2026-09-20,2026-09-20,Fany Achmad Raihan
+i. September,S1,20-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:15:30,Online,ACQUI,2026-09-20,2026-09-20,Jacinta Aura Ramadhani
+i. September,S1,20-Sep-2026,Acqui,Grup A,Jufrizal Jufrizal,0:21:51,Online,ACQUI,2026-09-20,2026-09-20,Jufrizal Jufrizal
+i. September,S2,20-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:03:11,Online,ACQUI,2026-09-20,2026-09-20,Muhamad Zidan Adha
+i. September,S2,20-Sep-2026,Acqui,Grup A,Muhamad Dzikri Ahsani Hermawan,0:06:50,Online,ACQUI,2026-09-20,2026-09-20,Muhamad Dzikri Ahsani Hermawan
+i. September,S1,20-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:07:23,Online,ACQUI,2026-09-20,2026-09-20,Nidaan Khafiyya Yusbar
+i. September,S1,20-Sep-2026,Acqui,Grup A,Tari Devianti,0:14:39,Online,ACQUI,2026-09-20,2026-09-20,Tari Devianti
+i. September,S1,20-Sep-2026,Acqui,Grup A,Shafa Maisa Zahra,0:16:08,Online,ACQUI,2026-09-20,2026-09-20,Shafa Maisa Zahra
+i. September,OFF,20-Sep-2026,Acqui,Grup A,Alfattiya Putri Bennika,0:13:35,Offline,ACQUI,2026-09-20,2026-09-20,Alfattiya Putri Bennika
+i. September,S1,20-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:35:33,Online,ACQUI,2026-09-20,2026-09-20,Amaliah Bakti
+i. September,S1,20-Sep-2026,Acqui,Grup A,Bagas Adjie Dewanto,0:20:40,Online,ACQUI,2026-09-20,2026-09-20,Bagas Adjie Dewanto
+i. September,S3,20-Sep-2026,Acqui,Grup A,Fathya Aufa Lidinillah,0:06:53,Online,ACQUI,2026-09-20,2026-09-20,Fathya Aufa Lidinillah
+i. September,S1,20-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:22:15,Online,ACQUI,2026-09-20,2026-09-20,Hanifah Iftinan Saputri
+i. September,S2,20-Sep-2026,Acqui,Grup B,Kamila Faradila,0:07:21,Online,ACQUI,2026-09-20,2026-09-20,Kamila Faradila
+i. September,S3,20-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,0:04:17,Online,ACQUI,2026-09-20,2026-09-20,Salwa Rahmadiyanti
+i. September,S3,20-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:07:35,Online,ACQUI,2026-09-20,2026-09-20,Achmad Fara Gautama
+i. September,S3,20-Sep-2026,Acqui,Grup C,Ananda Syafira,0:06:05,Online,ACQUI,2026-09-20,2026-09-20,Ananda Syafira
+i. September,S1,20-Sep-2026,Acqui,Grup B,Annya Anugrahaning,0:21:03,Online,ACQUI,2026-09-20,2026-09-20,Annya Anugrahaning
+i. September,S1,20-Sep-2026,Acqui,Grup B,Feliksia Astridaphira Tramaharani,0:25:00,Online,ACQUI,2026-09-20,2026-09-20,Feliksia Astridaphira Tramaharani
+i. September,OFF,20-Sep-2026,Acqui,Grup B,Muhammad Urwah,0:02:08,Offline,ACQUI,2026-09-20,2026-09-20,Muhammad Urwah
+i. September,S3,20-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:07:27,Online,ACQUI,2026-09-20,2026-09-20,Shavira Devi Shaliha
+i. September,S2,20-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:07:00,Online,ACQUI,2026-09-20,2026-09-20,Thia Amelia Butar Butar
+i. September,S1,20-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,0:09:16,Online,CS,2026-09-20,2026-09-20,Dewi Lailatul Badriyah
+i. September,OFF,20-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:00:00,Offline,CS,2026-09-20,2026-09-20,Inayah Rohmaniyah
+i. September,S2,20-Sep-2026,CX,Grup B,Meiza Muhammad Rizqi,0:05:41,Online,CS,2026-09-20,2026-09-20,Meiza Muhammad Rizqi
+i. September,S2,20-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:16:35,Online,CS,2026-09-20,2026-09-20,Nadzira Inayah Muthmainah
+i. September,S1,20-Sep-2026,CX,Grup A,Ois Kholisoh ,0:03:51,Online,CS,2026-09-20,2026-09-20,Ois Kholisoh
+i. September,S1,20-Sep-2026,CX,Grup A,Revina Intan Pramesti ,0:27:34,Online,CS,2026-09-20,2026-09-20,Revina Intan Pramesti
+i. September,OFF,20-Sep-2026,CX,Grup A,Seno Ajianto,0:00:00,Offline,CS,2026-09-20,2026-09-20,Seno Ajianto
+i. September,S3,20-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:16:37,Online,CS,2026-09-20,2026-09-20,Verrina Amira Harjo
+i. September,S3,20-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:11:21,Online,CS,2026-09-20,2026-09-20,Afifah Nur khasanah
+i. September,S1,20-Sep-2026,CX,Grup C,Anisya Ananda Putri,0:24:14,Online,CS,2026-09-20,2026-09-20,Anisya Ananda Putri
+i. September,S1,20-Sep-2026,CX,Grup B,Caroline Elsa Manuhua,0:06:58,Online,CS,2026-09-20,2026-09-20,Caroline Elsa Manuhua
+i. September,S1,20-Sep-2026,CX,Grup A,Citra Risi Khaironissa,0:08:53,Online,CS,2026-09-20,2026-09-20,Citra Risi Khaironissa
+i. September,S1,20-Sep-2026,CX,Grup C,Muhammad Hairul Nizam,0:22:52,Online,CS,2026-09-20,2026-09-20,Muhammad Hairul Nizam
+i. September,OFF,20-Sep-2026,CX,Grup A,Muthiah Hanif Salsabilla,0:00:00,Offline,CS,2026-09-20,2026-09-20,Muthiah Hanif Salsabilla
+i. September,S3,20-Sep-2026,CX,Grup A,Nurul Nisa,0:04:47,Online,CS,2026-09-20,2026-09-20,Nurul Nisa
+i. September,S3,20-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:04:35,Online,CS,2026-09-20,2026-09-20,Rahma Choirul Jannah Rahayu
+i. September,S3,20-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:05:25,Online,CS,2026-09-20,2026-09-20,Anisa Diah Roselawati
+i. September,S1,20-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:08:04,Online,CS,2026-09-20,2026-09-20,Arum Savitri Chairunisa
+i. September,S1,20-Sep-2026,CX,Grup B,Hanifah Rahmifisina Nirmalasari,0:15:30,Online,CS,2026-09-20,2026-09-20,Hanifah Rahmifisina Nirmalasari
+i. September,OFF,20-Sep-2026,CX,Grup C,Karmilla Susilawati,0:00:00,Offline,CS,2026-09-20,2026-09-20,Karmilla Susilawati
+i. September,S1,20-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:04:39,Online,CS,2026-09-20,2026-09-20,Nandita Khairunnisa
+i. September,S1,20-Sep-2026,CX,Grup C,Panca Rani Sakti,0:09:20,Online,CS,2026-09-20,2026-09-20,Panca Rani Sakti
+i. September,S1,20-Sep-2026,CX,Grup C,Puspita Wulandari,0:21:19,Online,CS,2026-09-20,2026-09-20,Puspita Wulandari
+i. September,S1,20-Sep-2026,CX,Grup A,Reniana Elya Azizatur Rojiyah,0:09:30,Online,CS,2026-09-20,2026-09-20,Reniana Elya Azizatur Rojiyah
+i. September,S2,20-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:07:17,Online,CS,2026-09-20,2026-09-20,Rihana Aulia Nafita
+i. September,S3,21-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:13:30,Online,ACQUI,2026-09-21,2026-09-21,Bella Deviana Dwi Prastiwi
+i. September,OFF,21-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,0:00:00,Offline,ACQUI,2026-09-21,2026-09-21,Dian Putri Saraswati
+i. September,S1,21-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,0:26:25,Online,ACQUI,2026-09-21,2026-09-21,Diaz Ahmad Fahrizal
+i. September,S1,21-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:20:01,Online,ACQUI,2026-09-21,2026-09-21,Fany Achmad Raihan
+i. September,S3,21-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:03:52,Online,ACQUI,2026-09-21,2026-09-21,Jacinta Aura Ramadhani
+i. September,S1,21-Sep-2026,Acqui,Grup A,Jufrizal Jufrizal,0:15:43,Online,ACQUI,2026-09-21,2026-09-21,Jufrizal Jufrizal
+i. September,S1,21-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:19:38,Online,ACQUI,2026-09-21,2026-09-21,Muhamad Zidan Adha
+i. September,S1,21-Sep-2026,Acqui,Grup A,Muhamad Dzikri Ahsani Hermawan,0:23:45,Online,ACQUI,2026-09-21,2026-09-21,Muhamad Dzikri Ahsani Hermawan
+i. September,S2,21-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:04:27,Online,ACQUI,2026-09-21,2026-09-21,Nidaan Khafiyya Yusbar
+i. September,S1,21-Sep-2026,Acqui,Grup A,Tari Devianti,0:13:40,Online,ACQUI,2026-09-21,2026-09-21,Tari Devianti
+i. September,S1,21-Sep-2026,Acqui,Grup A,Shafa Maisa Zahra,0:31:45,Online,ACQUI,2026-09-21,2026-09-21,Shafa Maisa Zahra
+i. September,S1,21-Sep-2026,Acqui,Grup A,Alfattiya Putri Bennika,0:18:13,Online,ACQUI,2026-09-21,2026-09-21,Alfattiya Putri Bennika
+i. September,OFF,21-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:00:00,Offline,ACQUI,2026-09-21,2026-09-21,Amaliah Bakti
+i. September,S3,21-Sep-2026,Acqui,Grup A,Bagas Adjie Dewanto,0:19:38,Online,ACQUI,2026-09-21,2026-09-21,Bagas Adjie Dewanto
+i. September,S3,21-Sep-2026,Acqui,Grup A,Fathya Aufa Lidinillah,0:09:52,Online,ACQUI,2026-09-21,2026-09-21,Fathya Aufa Lidinillah
+i. September,S3,21-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:26:25,Online,ACQUI,2026-09-21,2026-09-21,Hanifah Iftinan Saputri
+i. September,S1,21-Sep-2026,Acqui,Grup B,Kamila Faradila,0:20:10,Online,ACQUI,2026-09-21,2026-09-21,Kamila Faradila
+i. September,S2,21-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,0:07:45,Online,ACQUI,2026-09-21,2026-09-21,Salwa Rahmadiyanti
+i. September,S2,21-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:05:56,Online,ACQUI,2026-09-21,2026-09-21,Achmad Fara Gautama
+i. September,S2,21-Sep-2026,Acqui,Grup C,Ananda Syafira,0:13:59,Online,ACQUI,2026-09-21,2026-09-21,Ananda Syafira
+i. September,OFF,21-Sep-2026,Acqui,Grup B,Annya Anugrahaning,0:26:06,Offline,ACQUI,2026-09-21,2026-09-21,Annya Anugrahaning
+i. September,S1,21-Sep-2026,Acqui,Grup B,Feliksia Astridaphira Tramaharani,0:16:50,Online,ACQUI,2026-09-21,2026-09-21,Feliksia Astridaphira Tramaharani
+i. September,S1,21-Sep-2026,Acqui,Grup B,Muhammad Urwah,0:11:23,Online,ACQUI,2026-09-21,2026-09-21,Muhammad Urwah
+i. September,S2,21-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:09:00,Online,ACQUI,2026-09-21,2026-09-21,Shavira Devi Shaliha
+i. September,S1,21-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:29:22,Online,ACQUI,2026-09-21,2026-09-21,Thia Amelia Butar Butar
+i. September,S1,21-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,0:04:08,Online,CS,2026-09-21,2026-09-21,Dewi Lailatul Badriyah
+i. September,OFF,21-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:00:00,Offline,CS,2026-09-21,2026-09-21,Inayah Rohmaniyah
+i. September,S1,21-Sep-2026,CX,Grup B,Meiza Muhammad Rizqi,0:13:08,Online,CS,2026-09-21,2026-09-21,Meiza Muhammad Rizqi
+i. September,S1,21-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:22:28,Online,CS,2026-09-21,2026-09-21,Nadzira Inayah Muthmainah
+i. September,S1,21-Sep-2026,CX,Grup A,Ois Kholisoh ,0:21:10,Online,CS,2026-09-21,2026-09-21,Ois Kholisoh
+i. September,S1,21-Sep-2026,CX,Grup A,Revina Intan Pramesti ,0:41:01,Online,CS,2026-09-21,2026-09-21,Revina Intan Pramesti
+i. September,S3,21-Sep-2026,CX,Grup A,Seno Ajianto,0:10:01,Online,CS,2026-09-21,2026-09-21,Seno Ajianto
+i. September,OFF,21-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:00:00,Offline,CS,2026-09-21,2026-09-21,Verrina Amira Harjo
+i. September,S2,21-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:09:43,Online,CS,2026-09-21,2026-09-21,Afifah Nur khasanah
+i. September,S2,21-Sep-2026,CX,Grup C,Anisya Ananda Putri,0:16:47,Online,CS,2026-09-21,2026-09-21,Anisya Ananda Putri
+i. September,S3,21-Sep-2026,CX,Grup B,Caroline Elsa Manuhua,0:05:35,Online,CS,2026-09-21,2026-09-21,Caroline Elsa Manuhua
+i. September,S3,21-Sep-2026,CX,Grup A,Citra Risi Khaironissa,0:15:14,Online,CS,2026-09-21,2026-09-21,Citra Risi Khaironissa
+i. September,OFF,21-Sep-2026,CX,Grup C,Muhammad Hairul Nizam,0:14:10,Offline,CS,2026-09-21,2026-09-21,Muhammad Hairul Nizam
+i. September,S3,21-Sep-2026,CX,Grup A,Muthiah Hanif Salsabilla,0:09:32,Online,CS,2026-09-21,2026-09-21,Muthiah Hanif Salsabilla
+i. September,S2,21-Sep-2026,CX,Grup A,Nurul Nisa,0:04:35,Online,CS,2026-09-21,2026-09-21,Nurul Nisa
+i. September,S2,21-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:04:48,Online,CS,2026-09-21,2026-09-21,Rahma Choirul Jannah Rahayu
+i. September,OFF,21-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:04:33,Offline,CS,2026-09-21,2026-09-21,Anisa Diah Roselawati
+i. September,S3,21-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:09:33,Online,CS,2026-09-21,2026-09-21,Arum Savitri Chairunisa
+i. September,S1,21-Sep-2026,CX,Grup B,Hanifah Rahmifisina Nirmalasari,0:09:07,Online,CS,2026-09-21,2026-09-21,Hanifah Rahmifisina Nirmalasari
+i. September,S1,21-Sep-2026,CX,Grup C,Karmilla Susilawati,0:13:37,Online,CS,2026-09-21,2026-09-21,Karmilla Susilawati
+i. September,S1,21-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:10:24,Online,CS,2026-09-21,2026-09-21,Nandita Khairunnisa
+i. September,S1,21-Sep-2026,CX,Grup C,Panca Rani Sakti,0:07:32,Online,CS,2026-09-21,2026-09-21,Panca Rani Sakti
+i. September,OFF,21-Sep-2026,CX,Grup C,Puspita Wulandari,0:17:49,Offline,CS,2026-09-21,2026-09-21,Puspita Wulandari
+i. September,S1,21-Sep-2026,CX,Grup A,Reniana Elya Azizatur Rojiyah,0:06:59,Online,CS,2026-09-21,2026-09-21,Reniana Elya Azizatur Rojiyah
+i. September,S1,21-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:11:32,Online,CS,2026-09-21,2026-09-21,Rihana Aulia Nafita
+i. September,S2,22-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:15:46,Online,ACQUI,2026-09-22,2026-09-22,Bella Deviana Dwi Prastiwi
+i. September,OFF,22-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,0:00:00,Offline,ACQUI,2026-09-22,2026-09-22,Dian Putri Saraswati
+i. September,S1,22-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,0:27:44,Online,ACQUI,2026-09-22,2026-09-22,Diaz Ahmad Fahrizal
+i. September,S1,22-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:16:11,Online,ACQUI,2026-09-22,2026-09-22,Fany Achmad Raihan
+i. September,S2,22-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:04:11,Online,ACQUI,2026-09-22,2026-09-22,Jacinta Aura Ramadhani
+i. September,S3,22-Sep-2026,Acqui,Grup A,Jufrizal Jufrizal,0:06:02,Online,ACQUI,2026-09-22,2026-09-22,Jufrizal Jufrizal
+i. September,S1,22-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:19:20,Online,ACQUI,2026-09-22,2026-09-22,Muhamad Zidan Adha
+i. September,OFF,22-Sep-2026,Acqui,Grup A,Muhamad Dzikri Ahsani Hermawan,0:12:16,Offline,ACQUI,2026-09-22,2026-09-22,Muhamad Dzikri Ahsani Hermawan
+i. September,S1,22-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:11:11,Online,ACQUI,2026-09-22,2026-09-22,Nidaan Khafiyya Yusbar
+i. September,OFF,22-Sep-2026,Acqui,Grup A,Tari Devianti,0:10:17,Offline,ACQUI,2026-09-22,2026-09-22,Tari Devianti
+i. September,OFF,22-Sep-2026,Acqui,Grup A,Shafa Maisa Zahra,0:07:19,Offline,ACQUI,2026-09-22,2026-09-22,Shafa Maisa Zahra
+i. September,S3,22-Sep-2026,Acqui,Grup B,Alfattiya Putri Bennika,0:03:21,Online,ACQUI,2026-09-22,2026-09-22,Alfattiya Putri Bennika
+i. September,S3,22-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:13:00,Online,ACQUI,2026-09-22,2026-09-22,Amaliah Bakti
+i. September,S2,22-Sep-2026,Acqui,Grup B,Bagas Adjie Dewanto,0:18:35,Online,ACQUI,2026-09-22,2026-09-22,Bagas Adjie Dewanto
+i. September,OFF,22-Sep-2026,Acqui,Grup B,Fathya Aufa Lidinillah,0:15:13,Offline,ACQUI,2026-09-22,2026-09-22,Fathya Aufa Lidinillah
+i. September,S1,22-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:40:27,Online,ACQUI,2026-09-22,2026-09-22,Hanifah Iftinan Saputri
+i. September,S1,22-Sep-2026,Acqui,Grup B,Kamila Faradila,0:21:31,Online,ACQUI,2026-09-22,2026-09-22,Kamila Faradila
+i. September,OFF,22-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,0:00:00,Offline,ACQUI,2026-09-22,2026-09-22,Salwa Rahmadiyanti
+i. September,S1,22-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:19:15,Online,ACQUI,2026-09-22,2026-09-22,Achmad Fara Gautama
+i. September,S1,22-Sep-2026,Acqui,Grup C,Ananda Syafira,0:17:20,Online,ACQUI,2026-09-22,2026-09-22,Ananda Syafira
+i. September,S1,22-Sep-2026,Acqui,Grup C,Annya Anugrahaning,0:23:21,Online,ACQUI,2026-09-22,2026-09-22,Annya Anugrahaning
+i. September,S3,22-Sep-2026,Acqui,Grup C,Feliksia Astridaphira Tramaharani,0:04:25,Online,ACQUI,2026-09-22,2026-09-22,Feliksia Astridaphira Tramaharani
+i. September,S3,22-Sep-2026,Acqui,Grup C,Muhammad Urwah,0:05:20,Online,ACQUI,2026-09-22,2026-09-22,Muhammad Urwah
+i. September,S1,22-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:19:23,Online,ACQUI,2026-09-22,2026-09-22,Shavira Devi Shaliha
+i. September,S1,22-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:22:46,Online,ACQUI,2026-09-22,2026-09-22,Thia Amelia Butar Butar
+i. September,S3,22-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,0:02:49,Online,CS,2026-09-22,2026-09-22,Dewi Lailatul Badriyah
+i. September,S2,22-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:09:16,Online,CS,2026-09-22,2026-09-22,Inayah Rohmaniyah
+i. September,S1,22-Sep-2026,CX,Grup A,Meiza Muhammad Rizqi,0:07:20,Online,CS,2026-09-22,2026-09-22,Meiza Muhammad Rizqi
+i. September,S1,22-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:08:42,Online,CS,2026-09-22,2026-09-22,Nadzira Inayah Muthmainah
+i. September,S1,22-Sep-2026,CX,Grup A,Ois Kholisoh ,0:07:43,Online,CS,2026-09-22,2026-09-22,Ois Kholisoh
+i. September,S1,22-Sep-2026,CX,Grup A,Revina Intan Pramesti ,0:18:34,Online,CS,2026-09-22,2026-09-22,Revina Intan Pramesti
+i. September,S3,22-Sep-2026,CX,Grup A,Seno Ajianto,0:11:20,Online,CS,2026-09-22,2026-09-22,Seno Ajianto
+i. September,S3,22-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:15:27,Online,CS,2026-09-22,2026-09-22,Verrina Amira Harjo
+i. September,S1,22-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:08:14,Online,CS,2026-09-22,2026-09-22,Afifah Nur khasanah
+i. September,S1,22-Sep-2026,CX,Grup B,Anisya Ananda Putri,0:26:36,Online,CS,2026-09-22,2026-09-22,Anisya Ananda Putri
+i. September,S2,22-Sep-2026,CX,Grup B,Caroline Elsa Manuhua,0:10:31,Online,CS,2026-09-22,2026-09-22,Caroline Elsa Manuhua
+i. September,OFF,22-Sep-2026,CX,Grup B,Citra Risi Khaironissa,0:00:00,Offline,CS,2026-09-22,2026-09-22,Citra Risi Khaironissa
+i. September,S1,22-Sep-2026,CX,Grup B,Muhammad Hairul Nizam,0:26:58,Online,CS,2026-09-22,2026-09-22,Muhammad Hairul Nizam
+i. September,S2,22-Sep-2026,CX,Grup B,Muthiah Hanif Salsabilla,0:09:12,Online,CS,2026-09-22,2026-09-22,Muthiah Hanif Salsabilla
+i. September,S3,22-Sep-2026,CX,Grup B,Nurul Nisa,0:04:24,Online,CS,2026-09-22,2026-09-22,Nurul Nisa
+i. September,OFF,22-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:00:00,Offline,CS,2026-09-22,2026-09-22,Rahma Choirul Jannah Rahayu
+i. September,S1,22-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:11:38,Online,CS,2026-09-22,2026-09-22,Anisa Diah Roselawati
+i. September,OFF,22-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:00:00,Offline,CS,2026-09-22,2026-09-22,Arum Savitri Chairunisa
+i. September,S1,22-Sep-2026,CX,Grup C,Hanifah Rahmifisina Nirmalasari,0:03:34,Online,CS,2026-09-22,2026-09-22,Hanifah Rahmifisina Nirmalasari
+i. September,S3,22-Sep-2026,CX,Grup C,Karmilla Susilawati,0:08:29,Online,CS,2026-09-22,2026-09-22,Karmilla Susilawati
+i. September,S1,22-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:13:41,Online,CS,2026-09-22,2026-09-22,Nandita Khairunnisa
+i. September,S1,22-Sep-2026,CX,Grup C,Panca Rani Sakti,0:07:24,Online,CS,2026-09-22,2026-09-22,Panca Rani Sakti
+i. September,S1,22-Sep-2026,CX,Grup C,Puspita Wulandari,0:13:49,Online,CS,2026-09-22,2026-09-22,Puspita Wulandari
+i. September,S1,22-Sep-2026,CX,Grup C,Reniana Elya Azizatur Rojiyah,0:06:13,Online,CS,2026-09-22,2026-09-22,Reniana Elya Azizatur Rojiyah
+i. September,S1,22-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:05:24,Online,CS,2026-09-22,2026-09-22,Rihana Aulia Nafita
+i. September,S1,23-Sep-2026,Acqui,Grup A,Bella Deviana Dwi Prastiwi,0:42:40,Online,ACQUI,2026-09-23,2026-09-23,Bella Deviana Dwi Prastiwi
+i. September,S3,23-Sep-2026,Acqui,Grup A,Dian Putri Saraswati,0:07:58,Online,ACQUI,2026-09-23,2026-09-23,Dian Putri Saraswati
+i. September,S1,23-Sep-2026,Acqui,Grup A,Diaz Ahmad Fahrizal,0:30:50,Online,ACQUI,2026-09-23,2026-09-23,Diaz Ahmad Fahrizal
+i. September,S1,23-Sep-2026,Acqui,Grup A,Fany Achmad Raihan,0:26:21,Online,ACQUI,2026-09-23,2026-09-23,Fany Achmad Raihan
+i. September,OFF,23-Sep-2026,Acqui,Grup A,Jacinta Aura Ramadhani,0:13:38,Offline,ACQUI,2026-09-23,2026-09-23,Jacinta Aura Ramadhani
+i. September,OFF,23-Sep-2026,Acqui,Grup A,Jufrizal Jufrizal,0:11:18,Offline,ACQUI,2026-09-23,2026-09-23,Jufrizal Jufrizal
+i. September,S1,23-Sep-2026,Acqui,Grup A,Muhamad Zidan Adha,0:31:27,Online,ACQUI,2026-09-23,2026-09-23,Muhamad Zidan Adha
+i. September,S3,23-Sep-2026,Acqui,Grup A,Muhamad Dzikri Ahsani Hermawan,0:07:28,Online,ACQUI,2026-09-23,2026-09-23,Muhamad Dzikri Ahsani Hermawan
+i. September,S1,23-Sep-2026,Acqui,Grup A,Nidaan Khafiyya Yusbar,0:11:20,Online,ACQUI,2026-09-23,2026-09-23,Nidaan Khafiyya Yusbar
+i. September,S1,23-Sep-2026,Acqui,Grup A,Tari Devianti,0:21:39,Online,ACQUI,2026-09-23,2026-09-23,Tari Devianti
+i. September,OFF,23-Sep-2026,Acqui,Grup A,Shafa Maisa Zahra,0:05:42,Offline,ACQUI,2026-09-23,2026-09-23,Shafa Maisa Zahra
+i. September,S2,23-Sep-2026,Acqui,Grup B,Alfattiya Putri Bennika,0:06:45,Online,ACQUI,2026-09-23,2026-09-23,Alfattiya Putri Bennika
+i. September,S2,23-Sep-2026,Acqui,Grup B,Amaliah Bakti,0:17:39,Online,ACQUI,2026-09-23,2026-09-23,Amaliah Bakti
+i. September,S1,23-Sep-2026,Acqui,Grup B,Bagas Adjie Dewanto,0:54:59,Online,ACQUI,2026-09-23,2026-09-23,Bagas Adjie Dewanto
+i. September,S1,23-Sep-2026,Acqui,Grup B,Fathya Aufa Lidinillah,0:36:48,Online,ACQUI,2026-09-23,2026-09-23,Fathya Aufa Lidinillah
+i. September,S1,23-Sep-2026,Acqui,Grup B,Hanifah Iftinan Saputri,0:35:25,Online,ACQUI,2026-09-23,2026-09-23,Hanifah Iftinan Saputri
+i. September,S3,23-Sep-2026,Acqui,Grup B,Kamila Faradila,0:08:50,Online,ACQUI,2026-09-23,2026-09-23,Kamila Faradila
+i. September,S1,23-Sep-2026,Acqui,Grup B,Salwa Rahmadiyanti,0:23:19,Online,ACQUI,2026-09-23,2026-09-23,Salwa Rahmadiyanti
+i. September,S1,23-Sep-2026,Acqui,Grup C,Achmad Fara Gautama,0:29:28,Online,ACQUI,2026-09-23,2026-09-23,Achmad Fara Gautama
+i. September,S3,23-Sep-2026,Acqui,Grup C,Ananda Syafira,0:10:09,Online,ACQUI,2026-09-23,2026-09-23,Ananda Syafira
+i. September,S1,23-Sep-2026,Acqui,Grup C,Annya Anugrahaning,0:34:40,Online,ACQUI,2026-09-23,2026-09-23,Annya Anugrahaning
+i. September,S2,23-Sep-2026,Acqui,Grup C,Feliksia Astridaphira Tramaharani,0:11:18,Online,ACQUI,2026-09-23,2026-09-23,Feliksia Astridaphira Tramaharani
+i. September,S2,23-Sep-2026,Acqui,Grup C,Muhammad Urwah,0:10:59,Online,ACQUI,2026-09-23,2026-09-23,Muhammad Urwah
+i. September,S3,23-Sep-2026,Acqui,Grup C,Shavira Devi Shaliha,0:09:23,Online,ACQUI,2026-09-23,2026-09-23,Shavira Devi Shaliha
+i. September,OFF,23-Sep-2026,Acqui,Grup C,Thia Amelia Butar Butar,0:23:26,Offline,ACQUI,2026-09-23,2026-09-23,Thia Amelia Butar Butar
+i. September,OFF,23-Sep-2026,CX,Grup A,Dewi Lailatul Badriyah,0:00:54,Offline,CS,2026-09-23,2026-09-23,Dewi Lailatul Badriyah
+i. September,S1,23-Sep-2026,CX,Grup A,Inayah Rohmaniyah,0:12:44,Online,CS,2026-09-23,2026-09-23,Inayah Rohmaniyah
+i. September,S1,23-Sep-2026,CX,Grup A,Meiza Muhammad Rizqi,0:17:29,Online,CS,2026-09-23,2026-09-23,Meiza Muhammad Rizqi
+i. September,S3,23-Sep-2026,CX,Grup A,Nadzira Inayah Muthmainah,0:08:45,Online,CS,2026-09-23,2026-09-23,Nadzira Inayah Muthmainah
+i. September,S1,23-Sep-2026,CX,Grup A,Ois Kholisoh ,0:13:44,Online,CS,2026-09-23,2026-09-23,Ois Kholisoh
+i. September,S1,23-Sep-2026,CX,Grup A,Revina Intan Pramesti ,0:25:52,Online,CS,2026-09-23,2026-09-23,Revina Intan Pramesti
+i. September,S2,23-Sep-2026,CX,Grup A,Seno Ajianto,0:07:11,Online,CS,2026-09-23,2026-09-23,Seno Ajianto
+i. September,S3,23-Sep-2026,CX,Grup A,Verrina Amira Harjo,0:08:22,Online,CS,2026-09-23,2026-09-23,Verrina Amira Harjo
+i. September,S1,23-Sep-2026,CX,Grup B,Afifah Nur khasanah,0:08:28,Online,CS,2026-09-23,2026-09-23,Afifah Nur khasanah
+i. September,S3,23-Sep-2026,CX,Grup B,Anisya Ananda Putri,0:12:03,Online,CS,2026-09-23,2026-09-23,Anisya Ananda Putri
+i. September,S1,23-Sep-2026,CX,Grup B,Caroline Elsa Manuhua,0:11:44,Online,CS,2026-09-23,2026-09-23,Caroline Elsa Manuhua
+i. September,OFF,23-Sep-2026,CX,Grup B,Citra Risi Khaironissa,0:10:06,Offline,CS,2026-09-23,2026-09-23,Citra Risi Khaironissa
+i. September,S1,23-Sep-2026,CX,Grup B,Muhammad Hairul Nizam,0:12:24,Online,CS,2026-09-23,2026-09-23,Muhammad Hairul Nizam
+i. September,S1,23-Sep-2026,CX,Grup B,Muthiah Hanif Salsabilla,0:10:43,Online,CS,2026-09-23,2026-09-23,Muthiah Hanif Salsabilla
+i. September,OFF,23-Sep-2026,CX,Grup B,Nurul Nisa,0:00:00,Offline,CS,2026-09-23,2026-09-23,Nurul Nisa
+i. September,S3,23-Sep-2026,CX,Grup B,Rahma Choirul Jannah Rahayu,0:04:54,Online,CS,2026-09-23,2026-09-23,Rahma Choirul Jannah Rahayu
+i. September,S2,23-Sep-2026,CX,Grup C,Anisa Diah Roselawati,0:07:49,Online,CS,2026-09-23,2026-09-23,Anisa Diah Roselawati
+i. September,OFF,23-Sep-2026,CX,Grup C,Arum Savitri Chairunisa,0:00:00,Offline,CS,2026-09-23,2026-09-23,Arum Savitri Chairunisa
+i. September,S3,23-Sep-2026,CX,Grup C,Hanifah Rahmifisina Nirmalasari,0:08:15,Online,CS,2026-09-23,2026-09-23,Hanifah Rahmifisina Nirmalasari
+i. September,OFF,23-Sep-2026,CX,Grup C,Karmilla Susilawati,0:05:55,Offline,CS,2026-09-23,2026-09-23,Karmilla Susilawati
+i. September,S2,23-Sep-2026,CX,Grup C,Nandita Khairunnisa,0:04:55,Online,CS,2026-09-23,2026-09-23,Nandita Khairunnisa
+i. September,OFF,23-Sep-2026,CX,Grup C,Panca Rani Sakti,0:03:42,Offline,CS,2026-09-23,2026-09-23,Panca Rani Sakti
+i. September,S1,23-Sep-2026,CX,Grup C,Puspita Wulandari,0:30:35,Online,CS,2026-09-23,2026-09-23,Puspita Wulandari
+i. September,S1,23-Sep-2026,CX,Grup C,Reniana Elya Azizatur Rojiyah,0:06:50,Online,CS,2026-09-23,2026-09-23,Reniana Elya Azizatur Rojiyah
+i. September,S1,23-Sep-2026,CX,Grup C,Rihana Aulia Nafita,0:09:26,Online,CS,2026-09-23,2026-09-23,Rihana Aulia Nafita
