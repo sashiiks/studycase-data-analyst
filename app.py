@@ -155,8 +155,15 @@ if selected_agent != "All Agents":
 # =============================================================================
 # 4. DASHBOARD HEADER & TOP KPI CARDS
 # =============================================================================
-st.title("Performance & Sales Executive Dashboard")
-st.markdown("<p style='color: #7A72A9; margin-top: -10px;'>Cleaned Dataset Analytics Overview</p>", unsafe_allow_html=True)
+st.markdown(
+    "<h1 style='color:#5B4B8A;'>Performance & Sales Executive Dashboard</h1>",
+    unsafe_allow_html=True
+)
+
+st.markdown(
+    "<p style='color:#7A72A9; margin-top:-10px;'>Cleaned Dataset Analytics Overview</p>",
+    unsafe_allow_html=True
+)
 
 # Calculation for Top KPI Box
 total_revenue = sl_f['amount_clean'].sum() if not sl_f.empty else 0
